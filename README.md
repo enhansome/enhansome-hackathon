@@ -2,7 +2,7 @@
 
 A curated open list of platforms and tools that can help you to **organize and run** tolerant and productive hackathons.
 
-> This list tries to cover what is ⚡️awesome⚡️ about [hackathons](https://en.wikipedia.org/wiki/Hackathon), hackdays and hacknights, and the community of organizers who run them! See also 🕶️[awesome-hackathons](https://github.com/mbiesiad/awesome-hackathons) ⭐ 54 | 🐛 0 | 📅 2024-05-24, 🕶️[awesome-hackathon-projects](https://github.com/Olanetsoft/awesome-hackathon-projects) ⭐ 1,781 | 🐛 5 | 📅 2025-05-20 and 🕶️[awesome-hackathon-starters](https://github.com/geekcamp-ph/awesome-hackathon-starters/issues/12) ⭐ 37 | 🐛 1 | 📅 2016-07-17. Are you interested in the *science* of hackathons? Join our new 📚 [Zotero library](https://www.zotero.org/groups/5538025/awesome_hackathons).
+> This list tries to cover what is ⚡️awesome⚡️ about [hackathons](https://en.wikipedia.org/wiki/Hackathon), hackdays and hacknights, and the community of organizers who run them! See also 🕶️[awesome-hackathons](https://github.com/mbiesiad/awesome-hackathons) ⭐ 54 | 🐛 0 | 📅 2024-05-24, 🕶️[awesome-hackathon-projects](https://github.com/Olanetsoft/awesome-hackathon-projects) ⭐ 1,782 | 🐛 5 | 📅 2025-05-20 and 🕶️[awesome-hackathon-starters](https://github.com/geekcamp-ph/awesome-hackathon-starters/issues/12) ⭐ 37 | 🐛 1 | 📅 2016-07-17. Are you interested in the *science* of hackathons? Join our new 📚 [Zotero library](https://www.zotero.org/groups/5538025/awesome_hackathons).
 
 To help improve this list, please check out the [Contributing](#contributing) section.
 
@@ -53,7 +53,7 @@ By *awesome 🕶️ hackathon platforms*, we mean web or mobile applications tha
 * [Quill](https://github.com/techx/quill) ⭐ 451 | 🐛 60 | 🌐 JavaScript | 📅 2022-12-22 - A registration system designed especially for large hackathons, maintained by HackMIT.
 * [Hackfoldr](https://github.com/hackfoldr/hackfoldr) ⭐ 413 | 🐛 44 | 🌐 LiveScript | 📅 2021-12-21 - Organize gdoc and hackpad documents for hackathons.
 * [LaraHack](https://github.com/ScientificClubofESI/LaraHack) ⭐ 121 | 🐛 3 | 🌐 PHP | 📅 2023-02-02 - Administration system designed for hackathons and similar competitions.
-* [HackDash](https://github.com/impronunciable/hackdash) ⭐ 71 | 🐛 43 | 🌐 JavaScript | 📅 2023-09-27 - Organize hackathon ideas into a dashboard.
+* [HackDash](https://github.com/impronunciable/hackdash) ⭐ 72 | 🐛 43 | 🌐 JavaScript | 📅 2023-09-27 - Organize hackathon ideas into a dashboard.
 * [project-hackathon](https://github.com/pheralb/project-hackathon) ⭐ 59 | 🐛 1 | 🌐 TypeScript | 📅 2023-08-11 - Hackathon management tool created at Hackafor. `typescript`
 * [Nucleus](https://github.com/hacktx/nucleus) ⭐ 52 | 🐛 5 | 🌐 Hack | 📅 2016-03-25 - Hackathon application system that integrates with MyMLH, Slack and more from HackTX.
 * [HackPortal](https://github.com/acmutd/hackportal) ⭐ 50 | 🐛 28 | 🌐 TypeScript | 📅 2025-01-27 - A platform from HackUTD for user-friendly event management.
@@ -181,4 +181,4 @@ Licensed [CC0 - Creative Commons Public Domain](LICENSE)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
