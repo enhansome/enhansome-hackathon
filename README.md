@@ -99,7 +99,7 @@ By *awesome 🕶️ hackathon platforms*, we mean web or mobile applications tha
 * [Hubot-RedisRed](https://github.com/Detry322/hubot-redisred) ⭐ 12 | 🐛 0 | 🌐 CoffeeScript | 📅 2016-09-16 - As well as [hubot-group](https://github.com/anishathalye/hubot-group) ⭐ 25 | 🐛 0 | 🌐 CoffeeScript | 📅 2023-03-05, [hubot-conf](https://github.com/anishathalye/hubot-conf) ⭐ 11 | 🐛 0 | 🌐 JavaScript | 📅 2023-03-05, [hubot-shortcut](https://github.com/anishathalye/hubot-shortcut) ⭐ 16 | 🐛 0 | 🌐 JavaScript | 📅 2023-03-05 by HackMIT are [Hubot](https://hubot.github.com/) plugins to make organizing easier.
 * [HaQR](https://github.com/drewthoennes/HaQR) ⭐ 9 | 🐛 0 | 🌐 JavaScript | 📅 2020-03-29 (unmaintained) - A modular QR code management system for hackathons and other events.
 * [BoilerBot](https://github.com/BoilerMake/boilerbot) ⭐ 1 | 🐛 0 | 🌐 JavaScript | 📅 2019-03-29 - Take control of your Slack by creating groups, assigning tasks, and more.
-* [Hackme](https://github.com/p1utoze/Hackme) ⭐ 1 | 🐛 6 | 🌐 Python | 📅 2026-08-10 (unmaintained?) - Minimalistic hackathon registration and participant status monitoring.
+* [Hackme](https://github.com/p1utoze/Hackme) ⭐ 1 | 🐛 6 | 🌐 Python | 📅 2026-08-17 (unmaintained?) - Minimalistic hackathon registration and participant status monitoring.
 * [Planning Kit](https://hackathon-planning-kit.org/) - Get information about how to design a hackathon that fits your needs.
 
 ### Promoting
@@ -181,4 +181,4 @@ Licensed [CC0 - Creative Commons Public Domain](LICENSE)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
