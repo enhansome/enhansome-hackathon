@@ -715,10 +715,10 @@
                 "archived": false,
                 "id": 29456624,
                 "language": null,
-                "last_commit": "2026-07-27T16:54:15Z",
+                "last_commit": "2026-08-20T19:50:09Z",
                 "owner": "matiassingers",
                 "repo": "awesome-readme",
-                "stars": 21340
+                "stars": 21346
               }
             },
             {
@@ -954,7 +954,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T13:33:19.577Z",
+    "last_updated": "2026-08-21T13:31:55.085Z",
     "original_repository": "dribdat/awesome-hackathon",
     "original_repository_id": 292300366,
     "original_repository_sha": "b4d68f0d5a67f473b2d86d30785de23e59a44930",
