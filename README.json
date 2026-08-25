@@ -581,7 +581,7 @@
                 "archived": false,
                 "id": 646877233,
                 "language": "Python",
-                "last_commit": "2026-08-17T16:33:32Z",
+                "last_commit": "2026-08-24T16:32:58Z",
                 "owner": "p1utoze",
                 "repo": "Hackme",
                 "stars": 1
@@ -740,7 +740,7 @@
                 "last_commit": "2026-08-20T19:50:09Z",
                 "owner": "matiassingers",
                 "repo": "awesome-readme",
-                "stars": 21364
+                "stars": 21367
               }
             },
             {
@@ -976,7 +976,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:27:46.951Z",
+    "last_updated": "2026-08-25T06:20:49.826Z",
     "original_repository": "dribdat/awesome-hackathon",
     "original_repository_id": 292300366,
     "original_repository_sha": "b4d68f0d5a67f473b2d86d30785de23e59a44930",
