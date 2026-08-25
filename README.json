@@ -511,7 +511,7 @@
                 "last_commit": "2025-08-21T15:25:38Z",
                 "owner": "microsoft",
                 "repo": "AcademicContent",
-                "stars": 2814
+                "stars": 2813
               }
             }
           ],
@@ -740,7 +740,7 @@
                 "last_commit": "2026-08-20T19:50:09Z",
                 "owner": "matiassingers",
                 "repo": "awesome-readme",
-                "stars": 21367
+                "stars": 21369
               }
             },
             {
@@ -976,7 +976,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:20:49.826Z",
+    "last_updated": "2026-08-25T13:35:06.834Z",
     "original_repository": "dribdat/awesome-hackathon",
     "original_repository_id": 292300366,
     "original_repository_sha": "b4d68f0d5a67f473b2d86d30785de23e59a44930",
