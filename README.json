@@ -636,7 +636,7 @@
                 "last_commit": "2026-07-08T14:15:18Z",
                 "owner": "hackclub",
                 "repo": "hackathons",
-                "stars": 166
+                "stars": 167
               }
             },
             {
@@ -740,7 +740,7 @@
                 "last_commit": "2026-08-20T19:50:09Z",
                 "owner": "matiassingers",
                 "repo": "awesome-readme",
-                "stars": 21369
+                "stars": 21372
               }
             },
             {
@@ -976,7 +976,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T13:35:06.834Z",
+    "last_updated": "2026-08-26T13:40:07.054Z",
     "original_repository": "dribdat/awesome-hackathon",
     "original_repository_id": 292300366,
     "original_repository_sha": "b4d68f0d5a67f473b2d86d30785de23e59a44930",
