@@ -12,12 +12,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": "https://www.democracylab.org",
                 "id": 92446896,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-06T01:24:13Z",
+                "open_issues": 161,
                 "owner": "DemocracyLab",
                 "repo": "CivicTechExchange",
-                "stars": 104
+                "stars": 104,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:40:25.427Z"
             },
@@ -28,12 +33,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Self-hosted challenge board for sweeter hackathons  🐝",
+                "homepage": "https://dribdat.cc",
                 "id": 42503174,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-05-01T16:33:24Z",
+                "open_issues": 93,
                 "owner": "dribdat",
                 "repo": "dribdat",
-                "stars": 89
+                "stars": 89,
+                "topics": [
+                  "collaborative",
+                  "hackathon",
+                  "hackdays",
+                  "hacknights",
+                  "open-hackathon",
+                  "organizing",
+                  "self-hosted",
+                  "time-tracking"
+                ]
               },
               "first_seen": "2026-08-28T22:40:25.427Z"
             },
@@ -44,12 +63,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "All-in-one hackathon platform for organisers",
+                "homepage": "https://app.hackjunction.com",
                 "id": 207085951,
                 "language": "JavaScript",
+                "license": "AGPL-3.0",
                 "last_commit": "2025-07-01T19:09:52Z",
+                "open_issues": 211,
                 "owner": "hackjunction",
                 "repo": "JunctionApp",
-                "stars": 76
+                "stars": 76,
+                "topics": [
+                  "event-management",
+                  "event-planning",
+                  "hackathon",
+                  "hackathon-platform",
+                  "hacktoberfest",
+                  "hacktoberfest2020"
+                ]
               },
               "first_seen": "2026-08-28T22:40:25.427Z"
             },
@@ -60,12 +91,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🌺 A plug-and-play hackathon management platform; SSO, hacker leaderboard, check-ins, and more!",
+                "homepage": "https://dashboard.hacksc.com",
                 "id": 502298623,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2025-05-07T03:09:52Z",
+                "open_issues": 5,
                 "owner": "HackSC",
                 "repo": "hibiscus",
-                "stars": 54
+                "stars": 54,
+                "topics": [
+                  "expressjs",
+                  "nextjs",
+                  "nx",
+                  "python",
+                  "react",
+                  "supabase",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T22:40:25.427Z"
             },
@@ -76,12 +120,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Competition Management System for the GovHack Hackathon",
+                "homepage": null,
                 "id": 140928912,
                 "language": "Ruby",
+                "license": "AGPL-3.0",
                 "last_commit": "2025-09-03T00:49:06Z",
+                "open_issues": 53,
                 "owner": "govhackaustralia",
                 "repo": "hackerspace3",
-                "stars": 24
+                "stars": 24,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:40:25.427Z"
             },
@@ -92,12 +141,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The attendee & admin portal for DeltaHacks, the hackathon for change.",
+                "homepage": "https://portal.deltahacks.com",
                 "id": 526394063,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-08T03:29:02Z",
+                "open_issues": 10,
                 "owner": "deltahacks",
                 "repo": "portal",
-                "stars": 20
+                "stars": 20,
+                "topics": [
+                  "create-t3-app",
+                  "full-stack",
+                  "hackathons",
+                  "nextjs",
+                  "t3-stack",
+                  "trpc",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T22:40:25.427Z"
             },
@@ -108,12 +170,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Progressive Web App of Open Hackathon Platform based on Next.js",
+                "homepage": "https://hackathon.kaiyuanshe.cn/",
                 "id": 243175219,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2025-06-30T21:39:49Z",
+                "open_issues": 0,
                 "owner": "kaiyuanshe",
                 "repo": "OpenHackathon-Web",
-                "stars": 16
+                "stars": 16,
+                "topics": [
+                  "hackathon",
+                  "platform",
+                  "pwa",
+                  "web-cell"
+                ]
               },
               "first_seen": "2026-08-28T22:40:25.427Z"
             },
@@ -124,12 +196,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Hackathon Management System built on Django",
+                "homepage": null,
                 "id": 388500518,
                 "language": "HTML",
+                "license": null,
                 "last_commit": "2025-03-10T08:25:35Z",
+                "open_issues": 3,
                 "owner": "tcnj-acm",
                 "repo": "halo",
-                "stars": 9
+                "stars": 9,
+                "topics": [
+                  "aws-s3",
+                  "django",
+                  "hackathon",
+                  "heroku",
+                  "postgres"
+                ]
               },
               "first_seen": "2026-08-28T22:40:25.427Z"
             },
@@ -140,12 +223,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Hackathon event platform to elegantly handle Hacker apps, with ready-made GraphQL and REST endpoints :sunglasses:",
+                "homepage": null,
                 "id": 302768057,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-15T11:48:09Z",
+                "open_issues": 1,
                 "owner": "hackthevalley",
                 "repo": "hack-the-back",
-                "stars": 6
+                "stars": 6,
+                "topics": [
+                  "competition",
+                  "django-project",
+                  "hackathon",
+                  "hackathon-application",
+                  "registration"
+                ]
               },
               "first_seen": "2026-08-28T22:40:25.427Z"
             },
@@ -156,12 +250,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 696318814,
                 "language": "PHP",
+                "license": null,
                 "last_commit": "2025-04-19T10:53:00Z",
+                "open_issues": 0,
                 "owner": "Teplitsa",
                 "repo": "hackathon",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:40:25.427Z"
             }
@@ -179,12 +278,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "📝 Registration, for hackathons!",
+                "homepage": "https://medium.com/hackmit-stories/quill-an-open-source-hackathon-registration-system-91f3a06d22a2",
                 "id": 62281153,
                 "language": "JavaScript",
+                "license": "AGPL-3.0",
                 "last_commit": "2022-12-22T03:34:31Z",
+                "open_issues": 60,
                 "owner": "techx",
                 "repo": "quill",
-                "stars": 451
+                "stars": 451,
+                "topics": [
+                  "hackathon",
+                  "registration"
+                ]
               },
               "first_seen": "2026-08-28T22:40:25.427Z"
             },
@@ -195,12 +302,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "organize gdoc and hackpad for hackathons",
+                "homepage": null,
                 "id": 8983912,
                 "language": "LiveScript",
+                "license": null,
                 "last_commit": "2021-12-21T14:57:40Z",
+                "open_issues": 44,
                 "owner": "hackfoldr",
                 "repo": "hackfoldr",
-                "stars": 413
+                "stars": 413,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:40:25.427Z"
             },
@@ -211,12 +323,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Administration system for Hackathons :chart_with_upwards_trend: ! ",
+                "homepage": null,
                 "id": 176176384,
                 "language": "PHP",
+                "license": "AGPL-3.0",
                 "last_commit": "2023-02-02T05:38:24Z",
+                "open_issues": 3,
                 "owner": "ScientificClubofESI",
                 "repo": "LaraHack",
-                "stars": 121
+                "stars": 121,
+                "topics": [
+                  "admin-dashboard",
+                  "administration",
+                  "checkin",
+                  "competition",
+                  "hackathon",
+                  "hackathon-application",
+                  "registration"
+                ]
               },
               "first_seen": "2026-08-28T22:40:25.427Z"
             },
@@ -227,12 +352,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Ideas for a hackathon",
+                "homepage": "http://hackdash.org",
                 "id": 7265366,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-09-27T17:45:41Z",
+                "open_issues": 43,
                 "owner": "impronunciable",
                 "repo": "hackdash",
-                "stars": 72
+                "stars": 72,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:40:25.427Z"
             },
@@ -243,12 +373,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🌻 An open-source hackathon management. Hackafor February 2023.",
+                "homepage": "https://phck.vercel.app",
                 "id": 601830851,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2023-08-11T11:05:55Z",
+                "open_issues": 1,
                 "owner": "pheralb",
                 "repo": "project-hackathon",
-                "stars": 59
+                "stars": 59,
+                "topics": [
+                  "cockroachdb",
+                  "hackafor",
+                  "hackathon",
+                  "management",
+                  "nextjs",
+                  "radix-ui",
+                  "tailwindcss",
+                  "trpc",
+                  "typescript",
+                  "vercel"
+                ]
               },
               "first_seen": "2026-08-28T22:40:25.427Z"
             },
@@ -259,12 +405,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Hackathon application and user information system",
+                "homepage": null,
                 "id": 38980074,
                 "language": "Hack",
+                "license": "EPL-1.0",
                 "last_commit": "2016-03-25T16:18:04Z",
+                "open_issues": 5,
                 "owner": "hacktx",
                 "repo": "nucleus",
-                "stars": 52
+                "stars": 52,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:40:25.427Z"
             },
@@ -275,12 +426,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A platform for hackathon event management.",
+                "homepage": "https://hackportal.hackutd.co/",
                 "id": 381515549,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2025-01-27T20:04:58Z",
+                "open_issues": 28,
                 "owner": "acmutd",
                 "repo": "hackportal",
-                "stars": 50
+                "stars": 50,
+                "topics": [
+                  "hackathon",
+                  "hacktoberfest"
+                ]
               },
               "first_seen": "2026-08-28T22:40:25.427Z"
             },
@@ -291,12 +450,24 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "All-in-one platform for hackathon registration & logistics.",
+                "homepage": "https://coderit.org/hackathon-manager/",
                 "id": 92438270,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2026-03-01T00:45:27Z",
+                "open_issues": 71,
                 "owner": "codeRIT",
                 "repo": "hackathon-manager",
-                "stars": 33
+                "stars": 33,
+                "topics": [
+                  "admissions",
+                  "dashboard",
+                  "hackathons",
+                  "mymlh",
+                  "registration",
+                  "ruby-on-rails"
+                ]
               },
               "first_seen": "2026-08-28T22:40:25.427Z"
             },
@@ -307,12 +478,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The spiciest hackathon application and user management system out there 🌶🌶🌶",
+                "homepage": null,
                 "id": 61508769,
                 "language": "Python",
+                "license": "AGPL-3.0",
                 "last_commit": "2022-12-08T00:45:34Z",
+                "open_issues": 13,
                 "owner": "rohitdatta",
                 "repo": "pepper",
-                "stars": 28
+                "stars": 28,
+                "topics": [
+                  "flask",
+                  "hackathon-application",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T22:40:25.427Z"
             },
@@ -323,12 +503,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An open source event management platform focused on Hackathons",
+                "homepage": "https://applicantatlas.com/",
                 "id": 724855356,
                 "language": "TypeScript",
+                "license": "AGPL-3.0",
                 "last_commit": "2024-08-27T00:57:09Z",
+                "open_issues": 23,
                 "owner": "ApplicantAtlas",
                 "repo": "ApplicantAtlas",
-                "stars": 24
+                "stars": 24,
+                "topics": [
+                  "applicantatlas",
+                  "build-together",
+                  "communityexchange",
+                  "event",
+                  "event-management-platform",
+                  "go",
+                  "hackathon",
+                  "hackathons",
+                  "help-wanted",
+                  "kafka",
+                  "management",
+                  "mongodb",
+                  "nextjs"
+                ]
               },
               "first_seen": "2026-08-28T22:40:25.427Z"
             },
@@ -339,12 +538,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Our super sweet hacker management system, built for HackTCNJ 2017+ | Used by Hack@WPI 2018!",
+                "homepage": "https://github.com/kbohinski/chronicel",
                 "id": 87864684,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2018-12-27T23:03:33Z",
+                "open_issues": 2,
                 "owner": "kbohinski",
                 "repo": "chronicel",
-                "stars": 19
+                "stars": 19,
+                "topics": [
+                  "flask",
+                  "hackathon",
+                  "hacking",
+                  "hacktcnj",
+                  "js",
+                  "mailchimp",
+                  "management-system",
+                  "mlh",
+                  "pubnub",
+                  "python",
+                  "registration",
+                  "tcnj"
+                ]
               },
               "first_seen": "2026-08-28T22:40:25.427Z"
             },
@@ -355,12 +572,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open source hackathon management system",
+                "homepage": "https://hackatuning.com",
                 "id": 207642681,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-12-22T12:34:02Z",
+                "open_issues": 54,
                 "owner": "leognmotta",
                 "repo": "hackatuning",
-                "stars": 15
+                "stars": 15,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:40:25.427Z"
             },
@@ -371,12 +593,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Judging System for Hackathons",
+                "homepage": null,
                 "id": 137146985,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2023-07-05T19:48:52Z",
+                "open_issues": 47,
                 "owner": "HackRU",
                 "repo": "sledge",
-                "stars": 12
+                "stars": 12,
+                "topics": [
+                  "expressjs",
+                  "hackathons",
+                  "judging",
+                  "mongodb",
+                  "nodejs",
+                  "reactjs"
+                ]
               },
               "first_seen": "2026-08-28T22:40:25.427Z"
             },
@@ -387,12 +621,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Hackathon Management System",
+                "homepage": null,
                 "id": 387535397,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2026-08-01T02:05:19Z",
+                "open_issues": 74,
                 "owner": "knoffhoff",
                 "repo": "hms",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:40:25.427Z"
             },
@@ -403,12 +642,21 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A hackathon management platform, built by HackSC ",
+                "homepage": "https://dashboard.hacksc.com",
                 "id": 207196504,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2022-07-07T13:45:21Z",
+                "open_issues": 41,
                 "owner": "HackSC",
                 "repo": "odyssey",
-                "stars": 9
+                "stars": 9,
+                "topics": [
+                  "hackathon",
+                  "hacksc",
+                  "odyssey"
+                ]
               },
               "first_seen": "2026-08-28T22:40:25.427Z"
             },
@@ -419,12 +667,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Hackathon registration server.",
+                "homepage": null,
                 "id": 510069078,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-01-29T23:47:32Z",
+                "open_issues": 8,
                 "owner": "HackAssistant",
                 "repo": "hackassistant",
-                "stars": 8
+                "stars": 8,
+                "topics": [
+                  "django",
+                  "hacktoberfest",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T22:40:25.427Z"
             },
@@ -435,12 +692,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Hackathon board using React",
+                "homepage": null,
                 "id": 56387658,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2017-10-06T10:16:12Z",
+                "open_issues": 3,
                 "owner": "hirako2000",
                 "repo": "react-hackathon-board",
-                "stars": 8
+                "stars": 8,
+                "topics": [
+                  "event",
+                  "hack",
+                  "hackathon",
+                  "hackathon-board",
+                  "hackathons",
+                  "manage",
+                  "react",
+                  "webapp"
+                ]
               },
               "first_seen": "2026-08-28T22:40:25.427Z"
             },
@@ -451,12 +722,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The world's best hackathon website.",
+                "homepage": null,
                 "id": 30256104,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-03-01T09:12:33Z",
+                "open_issues": 20,
                 "owner": "hacksu",
                 "repo": "kenthackenough",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:40:25.427Z"
             },
@@ -467,12 +743,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Hackathon Matching Platform",
+                "homepage": null,
                 "id": 80762620,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2019-01-15T18:45:17Z",
+                "open_issues": 0,
                 "owner": "shilomagen",
                 "repo": "hackathon-matching-platform",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:40:25.427Z"
             },
@@ -483,12 +764,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "We developed this tool during our annually happening Hackweek at Scout24. It is meant to help us preparing, organzing and running our Hackweeks. Since we are not the only ones running those Hackathons we thought we make it public for anyone to use...",
+                "homepage": null,
                 "id": 290467858,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2020-10-21T17:58:53Z",
+                "open_issues": 0,
                 "owner": "Scout24",
                 "repo": "hackathon-management-system",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:40:25.427Z"
             },
@@ -499,12 +785,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Web application for managing the VersusVirus online hackathons.",
+                "homepage": null,
                 "id": 272732913,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2020-06-24T07:03:33Z",
+                "open_issues": 8,
                 "owner": "VersusVirus-Hackathons",
                 "repo": "VersusVirus-App",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:40:25.427Z"
             },
@@ -515,12 +806,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A fullstack suite of apps for hosting virtual hackathons",
+                "homepage": null,
                 "id": 465699423,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2023-04-07T12:25:29Z",
+                "open_issues": 14,
                 "owner": "DevtranetHQ",
                 "repo": "Hacksuite",
-                "stars": 2
+                "stars": 2,
+                "topics": [
+                  "hack-suite",
+                  "hackathons",
+                  "hacker-workspace"
+                ]
               },
               "first_seen": "2026-08-28T22:40:25.427Z"
             }
@@ -538,12 +838,30 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Free tech resources for faculty, students, researchers, life-long learners, and academic community builders for use in tech based courses, workshops, and hackathons.",
+                "homepage": null,
                 "id": 61397447,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2025-08-21T15:25:38Z",
+                "open_issues": 0,
                 "owner": "microsoft",
                 "repo": "AcademicContent",
-                "stars": 2815
+                "stars": 2815,
+                "topics": [
+                  "azure",
+                  "classroom",
+                  "computer-science",
+                  "faculty",
+                  "hackathons",
+                  "labs",
+                  "python",
+                  "students",
+                  "tech",
+                  "tech-resources",
+                  "tech-talks",
+                  "workshops"
+                ]
               },
               "first_seen": "2026-08-28T22:40:25.427Z"
             }
@@ -567,12 +885,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A redisred API handler for Hubot",
+                "homepage": null,
                 "id": 40687904,
                 "language": "CoffeeScript",
+                "license": "MIT",
                 "last_commit": "2016-09-16T14:58:44Z",
+                "open_issues": 0,
                 "owner": "Detry322",
                 "repo": "hubot-redisred",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:40:25.427Z"
             },
@@ -583,12 +906,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A modular QR management system for hackathons and other events",
+                "homepage": null,
                 "id": 193269012,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2020-03-29T02:42:30Z",
+                "open_issues": 0,
                 "owner": "drewthoennes",
                 "repo": "HaQR",
-                "stars": 9
+                "stars": 9,
+                "topics": [
+                  "hackathon",
+                  "hackathon-application",
+                  "nodejs",
+                  "qr"
+                ]
               },
               "first_seen": "2026-08-28T22:40:25.427Z"
             },
@@ -599,12 +932,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SlackBot for BoilerMake",
+                "homepage": null,
                 "id": 62163075,
                 "language": "JavaScript",
+                "license": "AGPL-3.0",
                 "last_commit": "2019-03-29T21:47:42Z",
+                "open_issues": 0,
                 "owner": "BoilerMake",
                 "repo": "boilerbot",
-                "stars": 1
+                "stars": 1,
+                "topics": [
+                  "docker",
+                  "slack",
+                  "slack-bot"
+                ]
               },
               "first_seen": "2026-08-28T22:40:25.427Z"
             },
@@ -615,12 +957,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A fast, minimalistic participant management system for your hackathon 🚀",
+                "homepage": "https://hackme.cloudns.nz",
                 "id": 646877233,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-08-24T16:32:58Z",
+                "open_issues": 6,
                 "owner": "p1utoze",
                 "repo": "Hackme",
-                "stars": 1
+                "stars": 1,
+                "topics": [
+                  "fastapi",
+                  "firebase",
+                  "hackathon-project",
+                  "python",
+                  "registration-system"
+                ]
               },
               "first_seen": "2026-08-28T22:40:25.427Z"
             }
@@ -638,12 +991,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A list of upcoming hackathons from around the world. ",
+                "homepage": "http://www.hackalist.org/",
                 "id": 22802216,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2026-04-09T14:25:35Z",
+                "open_issues": 0,
                 "owner": "Hackalist",
                 "repo": "Hackalist.github.io",
-                "stars": 490
+                "stars": 490,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:40:25.427Z"
             },
@@ -654,12 +1012,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🔥 A daily streak system & portfolio for your projects.",
+                "homepage": "https://scrapbook.hackclub.com",
                 "id": 271623674,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2026-08-28T22:40:23Z",
+                "open_issues": 24,
                 "owner": "hackclub",
                 "repo": "scrapbook",
-                "stars": 191
+                "stars": 191,
+                "topics": [
+                  "hackclub",
+                  "hacktoberfest",
+                  "nextjs",
+                  "summer-of-making"
+                ]
               },
               "first_seen": "2026-08-28T22:40:25.427Z"
             },
@@ -670,12 +1038,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "💥 Open source directory of free student-led high school hackathons.",
+                "homepage": "https://hackathons.hackclub.com",
                 "id": 229705727,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-07-08T14:15:18Z",
+                "open_issues": 7,
                 "owner": "hackclub",
                 "repo": "hackathons",
-                "stars": 167
+                "stars": 167,
+                "topics": [
+                  "hackathons",
+                  "hackclub",
+                  "high-school",
+                  "nextjs"
+                ]
               },
               "first_seen": "2026-08-28T22:40:25.427Z"
             },
@@ -686,12 +1064,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A list of potential sponsors for hackathons.",
+                "homepage": null,
                 "id": 106676918,
                 "language": null,
+                "license": null,
                 "last_commit": "2017-10-12T21:46:55Z",
+                "open_issues": 1,
                 "owner": "Neuro-Hack",
                 "repo": "sponsorship",
-                "stars": 79
+                "stars": 79,
+                "topics": [
+                  "awesome-list",
+                  "hackathon",
+                  "sponsorship"
+                ]
               },
               "first_seen": "2026-08-28T22:40:25.427Z"
             },
@@ -702,12 +1089,24 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "This website contains a list of open source events and hackathon.",
+                "homepage": "https://opensourcefrontend.netlify.app/",
                 "id": 263558970,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2022-09-29T07:48:22Z",
+                "open_issues": 13,
                 "owner": "Catalyst-IN",
                 "repo": "OpenSourceEvents-Frontend",
-                "stars": 65
+                "stars": 65,
+                "topics": [
+                  "css",
+                  "hackathons",
+                  "html",
+                  "javascript",
+                  "open-source",
+                  "web"
+                ]
               },
               "first_seen": "2026-08-28T22:40:25.427Z"
             },
@@ -718,12 +1117,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Get event details of competitive programming contests, hackathons etc.",
+                "homepage": "https://upcoding.netlify.app/",
                 "id": 547074424,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-10-13T19:28:58Z",
+                "open_issues": 3,
                 "owner": "sahanmndl",
                 "repo": "UpCoding-Web",
-                "stars": 14
+                "stars": 14,
+                "topics": [
+                  "api",
+                  "competitive-programming",
+                  "hackathon",
+                  "hacktoberfest",
+                  "hacktoberfest-2022",
+                  "hacktoberfest2023",
+                  "javascript",
+                  "react",
+                  "reactjs"
+                ]
               },
               "first_seen": "2026-08-28T22:40:25.427Z"
             }
@@ -741,12 +1155,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A rather dashing companion for your hackathons",
+                "homepage": null,
                 "id": 241368813,
                 "language": "CoffeeScript",
+                "license": null,
                 "last_commit": "2024-11-19T23:25:10Z",
+                "open_issues": 5,
                 "owner": "dribdat",
                 "repo": "dridbot",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:40:25.427Z"
             },
@@ -757,12 +1176,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Volunteer Management System created for DSC Hack4Good Hackathon",
+                "homepage": null,
                 "id": 754176103,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2024-02-10T15:15:43Z",
+                "open_issues": 0,
                 "owner": "Anant1902",
                 "repo": "volunTree",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:40:25.427Z"
             }
@@ -780,12 +1204,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of awesome READMEs",
+                "homepage": null,
                 "id": 29456624,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-08-20T19:50:09Z",
+                "open_issues": 1,
                 "owner": "matiassingers",
                 "repo": "awesome-readme",
-                "stars": 21388
+                "stars": 21388,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "list",
+                  "readme"
+                ]
               },
               "first_seen": "2026-08-28T22:40:25.427Z"
             },
@@ -796,12 +1230,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "💁 an extensible real-time queue application, for mentorship @ hackathons and classrooms",
+                "homepage": "http://ehzhang.com/HELPq-data",
                 "id": 31908137,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2020-02-11T21:16:24Z",
+                "open_issues": 12,
                 "owner": "ehzhang",
                 "repo": "HELPq",
-                "stars": 268
+                "stars": 268,
+                "topics": [
+                  "classroom",
+                  "hackathon",
+                  "javascript",
+                  "mentorship",
+                  "meteor"
+                ]
               },
               "first_seen": "2026-08-28T22:40:25.427Z"
             },
@@ -812,12 +1257,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Hackathon sponsorship made easy",
+                "homepage": null,
                 "id": 214522067,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2024-05-02T15:46:32Z",
+                "open_issues": 5,
                 "owner": "AmericanAirlines",
                 "repo": "Hangar",
-                "stars": 41
+                "stars": 41,
+                "topics": [
+                  "discord",
+                  "express",
+                  "jest",
+                  "nextjs",
+                  "node",
+                  "react",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T22:40:25.427Z"
             },
@@ -828,12 +1286,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Hackathon mentorship via Slack",
+                "homepage": null,
                 "id": 41985748,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2015-09-24T17:41:22Z",
+                "open_issues": 0,
                 "owner": "hacktx",
                 "repo": "slack-mentorship",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:40:25.427Z"
             }
@@ -851,12 +1314,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A project expo judging system 📊",
+                "homepage": "https://anishathalye.com/gavel-an-expo-judging-system/",
                 "id": 61972358,
                 "language": "Python",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-02-20T20:50:20Z",
+                "open_issues": 11,
                 "owner": "anishathalye",
                 "repo": "gavel",
-                "stars": 487
+                "stars": 487,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:40:25.427Z"
             },
@@ -867,12 +1335,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An expo / table numbers app for your Devpost hackathon",
+                "homepage": "http://nealrs.github.io/expo",
                 "id": 42670677,
                 "language": "JavaScript",
+                "license": "GPL-3.0",
                 "last_commit": "2017-06-20T20:57:43Z",
+                "open_issues": 0,
                 "owner": "nealrs",
                 "repo": "expo",
-                "stars": 56
+                "stars": 56,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:40:25.427Z"
             },
@@ -883,12 +1356,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "📈  Management and evaluation at Hackathons events - My Course conclusion work.",
+                "homepage": null,
                 "id": 299745011,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2021-07-21T14:13:09Z",
+                "open_issues": 0,
                 "owner": "Lucasbrunoferreira",
                 "repo": "rankeer",
-                "stars": 11
+                "stars": 11,
+                "topics": [
+                  "adonisjs",
+                  "course-conclusion",
+                  "hackathon",
+                  "management",
+                  "react",
+                  "react-native",
+                  "tcc"
+                ]
               },
               "first_seen": "2026-08-28T22:40:25.427Z"
             },
@@ -899,12 +1385,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "📜 Guideline and criteria for evaluating hackathon and design focused code sprint globally conducted by developer friendly companies ",
+                "homepage": null,
                 "id": 64215930,
                 "language": null,
+                "license": "GPL-3.0",
                 "last_commit": "2017-06-02T05:02:31Z",
+                "open_issues": 0,
                 "owner": "mayurah",
                 "repo": "Evaluation-Manual",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:40:25.427Z"
             }
@@ -926,12 +1417,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Hackday Manifesto",
+            "homepage": "https://hackdaymanifesto.com/",
             "id": 3975025,
             "language": "HTML",
+            "license": null,
             "last_commit": "2025-01-31T17:45:11Z",
+            "open_issues": 11,
             "owner": "hackdaymanifesto",
             "repo": "site",
-            "stars": 427
+            "stars": 427,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:40:25.427Z"
         },
@@ -942,12 +1438,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MLH Hackathon Organizer Guide",
+            "homepage": "https://guide.mlh.io",
             "id": 26335034,
             "language": "CSS",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-03T19:38:29Z",
+            "open_issues": 13,
             "owner": "MLH",
             "repo": "mlh-hackathon-organizer-guide",
-            "stars": 350
+            "stars": 350,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:40:25.427Z"
         },
@@ -958,12 +1459,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A logistics guide to running a successful hackathon.",
+            "homepage": "https://hackathon.guide",
             "id": 25649256,
             "language": "HTML",
+            "license": null,
             "last_commit": "2020-06-07T21:45:56Z",
+            "open_issues": 3,
             "owner": "JoshData",
             "repo": "hackathon.guide",
-            "stars": 179
+            "stars": 179,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:40:25.427Z"
         },
@@ -974,12 +1480,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Collection of Hackathon Resources.",
+            "homepage": null,
             "id": 26985708,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2015-12-16T07:38:50Z",
+            "open_issues": 0,
             "owner": "HackathonHackers",
             "repo": "Hackathon-Resources",
-            "stars": 26
+            "stars": 26,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:40:25.427Z"
         },
@@ -990,12 +1501,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 300225985,
             "language": "TeX",
+            "license": "CC0-1.0",
             "last_commit": "2021-07-13T11:51:17Z",
+            "open_issues": 6,
             "owner": "okfde",
             "repo": "hackathon-leitfaden",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:40:25.427Z"
         },
@@ -1006,12 +1522,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "getting your open source project ready for new contributors",
+            "homepage": "http://opensource-events.com/",
             "id": 15177174,
             "language": "Python",
+            "license": null,
             "last_commit": "2019-05-28T05:52:28Z",
+            "open_issues": 7,
             "owner": "openhatch",
             "repo": "in-person-event-handbook",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:40:25.427Z"
         },
@@ -1022,12 +1543,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Documentation site",
+            "homepage": "https://dribdat.cc/",
             "id": 529195542,
             "language": "HTML",
+            "license": null,
             "last_commit": "2026-06-20T20:50:24Z",
+            "open_issues": 0,
             "owner": "dribdat",
             "repo": "docs",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:40:25.427Z"
         }
@@ -1036,15 +1562,25 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T22:40:25.427Z",
+    "last_updated": "2026-08-29T04:46:53.812Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Platforms, tools, and guides for critical organizers 🌆",
+      "homepage": null,
       "id": 292300366,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-05-05T17:45:20Z",
+      "open_issues": 2,
       "owner": "dribdat",
       "repo": "awesome-hackathon",
-      "stars": 289
+      "stars": 289,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "hackathon",
+        "hackathons"
+      ]
     },
     "original_repository_sha": "b4d68f0d5a67f473b2d86d30785de23e59a44930",
     "enhanced_repository": "enhansome/enhansome-hackathon",
