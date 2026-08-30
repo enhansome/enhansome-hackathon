@@ -21,7 +21,7 @@
                 "open_issues": 161,
                 "owner": "DemocracyLab",
                 "repo": "CivicTechExchange",
-                "stars": 104,
+                "stars": 105,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:40:25.427Z"
@@ -311,7 +311,7 @@
                 "open_issues": 44,
                 "owner": "hackfoldr",
                 "repo": "hackfoldr",
-                "stars": 413,
+                "stars": 414,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:40:25.427Z"
@@ -847,7 +847,7 @@
                 "open_issues": 0,
                 "owner": "microsoft",
                 "repo": "AcademicContent",
-                "stars": 2815,
+                "stars": 2814,
                 "topics": [
                   "azure",
                   "classroom",
@@ -1017,8 +1017,8 @@
                 "id": 271623674,
                 "language": "JavaScript",
                 "license": null,
-                "last_commit": "2026-08-28T22:40:23Z",
-                "open_issues": 24,
+                "last_commit": "2026-08-30T14:48:58Z",
+                "open_issues": 18,
                 "owner": "hackclub",
                 "repo": "scrapbook",
                 "stars": 191,
@@ -1213,7 +1213,7 @@
                 "open_issues": 1,
                 "owner": "matiassingers",
                 "repo": "awesome-readme",
-                "stars": 21391,
+                "stars": 21390,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1323,7 +1323,7 @@
                 "open_issues": 11,
                 "owner": "anishathalye",
                 "repo": "gavel",
-                "stars": 487,
+                "stars": 485,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:40:25.427Z"
@@ -1562,7 +1562,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T16:52:34.959Z",
+    "last_updated": "2026-08-30T16:58:23.842Z",
     "original_repository_info": {
       "archived": false,
       "description": "Platforms, tools, and guides for critical organizers 🌆",
