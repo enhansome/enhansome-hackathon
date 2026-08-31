@@ -962,7 +962,7 @@
                 "id": 646877233,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-08-24T16:32:58Z",
+                "last_commit": "2026-08-31T16:33:35Z",
                 "open_issues": 6,
                 "owner": "p1utoze",
                 "repo": "Hackme",
@@ -1000,7 +1000,7 @@
                 "open_issues": 0,
                 "owner": "Hackalist",
                 "repo": "Hackalist.github.io",
-                "stars": 490,
+                "stars": 491,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:40:25.427Z"
@@ -1213,7 +1213,7 @@
                 "open_issues": 1,
                 "owner": "matiassingers",
                 "repo": "awesome-readme",
-                "stars": 21390,
+                "stars": 21395,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1562,7 +1562,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T16:58:23.842Z",
+    "last_updated": "2026-08-31T19:14:41.884Z",
     "original_repository_info": {
       "archived": false,
       "description": "Platforms, tools, and guides for critical organizers 🌆",
@@ -1574,7 +1574,7 @@
       "open_issues": 2,
       "owner": "dribdat",
       "repo": "awesome-hackathon",
-      "stars": 289,
+      "stars": 291,
       "topics": [
         "awesome",
         "awesome-list",

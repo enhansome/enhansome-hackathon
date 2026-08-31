@@ -2,7 +2,7 @@
 
 A curated open list of platforms and tools that can help you to **organize and run** tolerant and productive hackathons.
 
-> This list tries to cover what is ⚡️awesome⚡️ about [hackathons](https://en.wikipedia.org/wiki/Hackathon), hackdays and hacknights, and the community of organizers who run them! See also 🕶️[awesome-hackathons](https://github.com/mbiesiad/awesome-hackathons) ⭐ 54 | 🐛 0 | 📅 2024-05-24, 🕶️[awesome-hackathon-projects](https://github.com/Olanetsoft/awesome-hackathon-projects) ⭐ 1,809 | 🐛 6 | 📅 2025-05-20 and 🕶️[awesome-hackathon-starters](https://github.com/geekcamp-ph/awesome-hackathon-starters/issues/12) ⭐ 37 | 🐛 1 | 📅 2016-07-17. Are you interested in the *science* of hackathons? Join our new 📚 [Zotero library](https://www.zotero.org/groups/5538025/awesome_hackathons).
+> This list tries to cover what is ⚡️awesome⚡️ about [hackathons](https://en.wikipedia.org/wiki/Hackathon), hackdays and hacknights, and the community of organizers who run them! See also 🕶️[awesome-hackathons](https://github.com/mbiesiad/awesome-hackathons) ⭐ 54 | 🐛 0 | 📅 2024-05-24, 🕶️[awesome-hackathon-projects](https://github.com/Olanetsoft/awesome-hackathon-projects) ⭐ 1,810 | 🐛 6 | 📅 2025-05-20 and 🕶️[awesome-hackathon-starters](https://github.com/geekcamp-ph/awesome-hackathon-starters/issues/12) ⭐ 37 | 🐛 1 | 📅 2016-07-17. Are you interested in the *science* of hackathons? Join our new 📚 [Zotero library](https://www.zotero.org/groups/5538025/awesome_hackathons).
 
 To help improve this list, please check out the [Contributing](#contributing) section.
 
@@ -99,12 +99,12 @@ By *awesome 🕶️ hackathon platforms*, we mean web or mobile applications tha
 * [Hubot-RedisRed](https://github.com/Detry322/hubot-redisred) ⭐ 12 | 🐛 0 | 🌐 CoffeeScript | 📅 2016-09-16 - As well as [hubot-group](https://github.com/anishathalye/hubot-group) ⭐ 25 | 🐛 0 | 🌐 CoffeeScript | 📅 2023-03-05, [hubot-conf](https://github.com/anishathalye/hubot-conf) ⭐ 11 | 🐛 0 | 🌐 JavaScript | 📅 2023-03-05, [hubot-shortcut](https://github.com/anishathalye/hubot-shortcut) ⭐ 16 | 🐛 0 | 🌐 JavaScript | 📅 2023-03-05 by HackMIT are [Hubot](https://hubot.github.com/) plugins to make organizing easier.
 * [HaQR](https://github.com/drewthoennes/HaQR) ⭐ 9 | 🐛 0 | 🌐 JavaScript | 📅 2020-03-29 (unmaintained) - A modular QR code management system for hackathons and other events.
 * [BoilerBot](https://github.com/BoilerMake/boilerbot) ⭐ 1 | 🐛 0 | 🌐 JavaScript | 📅 2019-03-29 - Take control of your Slack by creating groups, assigning tasks, and more.
-* [Hackme](https://github.com/p1utoze/Hackme) ⭐ 1 | 🐛 6 | 🌐 Python | 📅 2026-08-24 (unmaintained?) - Minimalistic hackathon registration and participant status monitoring.
+* [Hackme](https://github.com/p1utoze/Hackme) ⭐ 1 | 🐛 6 | 🌐 Python | 📅 2026-08-31 (unmaintained?) - Minimalistic hackathon registration and participant status monitoring.
 * [Planning Kit](https://hackathon-planning-kit.org/) - Get information about how to design a hackathon that fits your needs.
 
 ### Promoting
 
-* [Hackalist](https://github.com/Hackalist/Hackalist.github.io#readme) ⭐ 490 | 🐛 0 | 🌐 HTML | 📅 2026-04-09 - A list of upcoming hackathons from around the world.
+* [Hackalist](https://github.com/Hackalist/Hackalist.github.io#readme) ⭐ 491 | 🐛 0 | 🌐 HTML | 📅 2026-04-09 - A list of upcoming hackathons from around the world.
 * [Scrapbook](https://github.com/hackclub/scrapbook) ⭐ 191 | 🐛 18 | 🌐 JavaScript | 📅 2026-08-30 by HackClub - A daily streak system & portfolio for your projects.
 * [Hack Club](https://github.com/hackclub/hackathons#readme) ⭐ 167 | 🐛 7 | 🌐 JavaScript | 📅 2026-07-08 - A curated list of hackathons organized for high schoolers.
 * [Hackathon Sponsorship](https://github.com/Neuro-Hack/sponsorship#readme) ⭐ 79 | 🐛 1 | 📅 2017-10-12 🕶️  A crowdsourced 'Awesome List' of companies to contact.
@@ -122,7 +122,7 @@ By *awesome 🕶️ hackathon platforms*, we mean web or mobile applications tha
 
 ### Coaching
 
-* [Awesome README](https://github.com/matiassingers/awesome-readme) ⭐ 21,390 | 🐛 1 | 📅 2026-08-20 - A list to inspire your coaches to motivate your teams to document their efforts ...with panache.
+* [Awesome README](https://github.com/matiassingers/awesome-readme) ⭐ 21,395 | 🐛 1 | 📅 2026-08-20 - A list to inspire your coaches to motivate your teams to document their efforts ...with panache.
 * [HELPq](https://github.com/ehzhang/helpq) ⭐ 268 | 🐛 12 | 🌐 JavaScript | 📅 2020-02-11 - Queue application with interfaces for mentors and hackers to answer/submit questions, respectively.
 * [Hangar](https://github.com/AmericanAirlines/Hangar) ⭐ 41 | 🐛 5 | 🌐 TypeScript | 📅 2024-05-02 - A Slack bot to help with judging and coaching at hackathons.
 * [TreeHacks Slack Mentorship System](https://github.com/hacktx/slack-mentorship) ⭐ 1 | 🐛 0 | 🌐 JavaScript | 📅 2015-09-24 - A Slack bot that queues requests in a #mentors channel (unmaintained as of 2015).
@@ -181,4 +181,4 @@ Licensed [CC0 - Creative Commons Public Domain](LICENSE)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
