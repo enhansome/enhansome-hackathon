@@ -63,7 +63,7 @@ By *awesome 🕶️ hackathon platforms*, we mean web or mobile applications tha
 * [chronicel](https://github.com/kbohinski/chronicel) ⭐ 19 | 🐛 2 | 🌐 HTML | 📅 2018-12-27 - A minimal registration system for a smaller, more personal hackathon.
 * [Hackatuning](https://github.com/leognmotta/hackatuning) ⭐ 15 | 🐛 54 | 🌐 JavaScript | 📅 2022-12-22 - Early stage hackathon management platform. `js`
 * [Sledge](https://github.com/HackRU/sledge) ⭐ 12 | 🐛 47 | 🌐 JavaScript | 📅 2023-07-05 - A judging system for hackathons developed at Rutgers University.
-* [hms](https://github.com/knoffhoff/hms) ⭐ 11 | 🐛 74 | 🌐 TypeScript | 📅 2026-08-01 - Hackathon Management System for Azure by knoffhoff.
+* [hms](https://github.com/knoffhoff/hms) ⭐ 11 | 🐛 74 | 🌐 TypeScript | 📅 2026-09-01 - Hackathon Management System for Azure by knoffhoff.
 * [Odyssey](https://github.com/HackSC/odyssey) ⚠️ Archived - A hackathon management platform, built by HackSC.
 * [HackAssistant](https://github.com/HackAssistant/hackassistant) ⭐ 8 | 🐛 8 | 🌐 Python | 📅 2024-01-29 - Hackathon registration server.
 * [React Hackathon Board](https://github.com/hirako2000/react-hackathon-board) ⭐ 8 | 🐛 3 | 🌐 JavaScript | 📅 2017-10-06 - Web application to manage Hackathon events.
@@ -122,7 +122,7 @@ By *awesome 🕶️ hackathon platforms*, we mean web or mobile applications tha
 
 ### Coaching
 
-* [Awesome README](https://github.com/matiassingers/awesome-readme) ⭐ 21,395 | 🐛 1 | 📅 2026-08-20 - A list to inspire your coaches to motivate your teams to document their efforts ...with panache.
+* [Awesome README](https://github.com/matiassingers/awesome-readme) ⭐ 21,398 | 🐛 1 | 📅 2026-08-20 - A list to inspire your coaches to motivate your teams to document their efforts ...with panache.
 * [HELPq](https://github.com/ehzhang/helpq) ⭐ 268 | 🐛 12 | 🌐 JavaScript | 📅 2020-02-11 - Queue application with interfaces for mentors and hackers to answer/submit questions, respectively.
 * [Hangar](https://github.com/AmericanAirlines/Hangar) ⭐ 41 | 🐛 5 | 🌐 TypeScript | 📅 2024-05-02 - A Slack bot to help with judging and coaching at hackathons.
 * [TreeHacks Slack Mentorship System](https://github.com/hacktx/slack-mentorship) ⭐ 1 | 🐛 0 | 🌐 JavaScript | 📅 2015-09-24 - A Slack bot that queues requests in a #mentors channel (unmaintained as of 2015).
@@ -181,4 +181,4 @@ Licensed [CC0 - Creative Commons Public Domain](LICENSE)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
