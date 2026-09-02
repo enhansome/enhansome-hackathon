@@ -228,7 +228,7 @@
                 "id": 302768057,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-08-15T11:48:09Z",
+                "last_commit": "2026-09-02T01:03:06Z",
                 "open_issues": 1,
                 "owner": "hackthevalley",
                 "repo": "hack-the-back",
@@ -847,7 +847,7 @@
                 "open_issues": 0,
                 "owner": "microsoft",
                 "repo": "AcademicContent",
-                "stars": 2812,
+                "stars": 2811,
                 "topics": [
                   "azure",
                   "classroom",
@@ -1213,7 +1213,7 @@
                 "open_issues": 1,
                 "owner": "matiassingers",
                 "repo": "awesome-readme",
-                "stars": 21398,
+                "stars": 21406,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1323,7 +1323,7 @@
                 "open_issues": 11,
                 "owner": "anishathalye",
                 "repo": "gavel",
-                "stars": 485,
+                "stars": 486,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:40:25.427Z"
@@ -1447,7 +1447,7 @@
             "open_issues": 13,
             "owner": "MLH",
             "repo": "mlh-hackathon-organizer-guide",
-            "stars": 350,
+            "stars": 349,
             "topics": []
           },
           "first_seen": "2026-08-28T22:40:25.427Z"
@@ -1562,7 +1562,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T16:55:39.009Z",
+    "last_updated": "2026-09-02T16:51:48.278Z",
     "original_repository_info": {
       "archived": false,
       "description": "Platforms, tools, and guides for critical organizers 🌆",
@@ -1574,7 +1574,7 @@
       "open_issues": 2,
       "owner": "dribdat",
       "repo": "awesome-hackathon",
-      "stars": 291,
+      "stars": 292,
       "topics": [
         "awesome",
         "awesome-list",
