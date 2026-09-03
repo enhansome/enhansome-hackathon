@@ -228,7 +228,7 @@
                 "id": 302768057,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-02T01:03:06Z",
+                "last_commit": "2026-09-02T19:40:27Z",
                 "open_issues": 1,
                 "owner": "hackthevalley",
                 "repo": "hack-the-back",
@@ -287,7 +287,7 @@
                 "open_issues": 60,
                 "owner": "techx",
                 "repo": "quill",
-                "stars": 451,
+                "stars": 452,
                 "topics": [
                   "hackathon",
                   "registration"
@@ -361,7 +361,7 @@
                 "open_issues": 43,
                 "owner": "impronunciable",
                 "repo": "hackdash",
-                "stars": 72,
+                "stars": 73,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:40:25.427Z"
@@ -1562,7 +1562,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T16:51:48.278Z",
+    "last_updated": "2026-09-03T16:41:32.347Z",
     "original_repository_info": {
       "archived": false,
       "description": "Platforms, tools, and guides for critical organizers 🌆",
