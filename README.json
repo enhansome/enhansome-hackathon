@@ -1043,7 +1043,7 @@
                 "id": 229705727,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-07-08T14:15:18Z",
+                "last_commit": "2026-09-04T22:45:36Z",
                 "open_issues": 7,
                 "owner": "hackclub",
                 "repo": "hackathons",
@@ -1073,7 +1073,7 @@
                 "open_issues": 1,
                 "owner": "Neuro-Hack",
                 "repo": "sponsorship",
-                "stars": 79,
+                "stars": 78,
                 "topics": [
                   "awesome-list",
                   "hackathon",
@@ -1213,7 +1213,7 @@
                 "open_issues": 1,
                 "owner": "matiassingers",
                 "repo": "awesome-readme",
-                "stars": 21410,
+                "stars": 21413,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1443,7 +1443,7 @@
             "id": 26335034,
             "language": "CSS",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-03T19:38:29Z",
+            "last_commit": "2026-09-04T18:55:54Z",
             "open_issues": 13,
             "owner": "MLH",
             "repo": "mlh-hackathon-organizer-guide",
@@ -1562,7 +1562,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T16:36:04.076Z",
+    "last_updated": "2026-09-05T15:33:39.887Z",
     "original_repository_info": {
       "archived": false,
       "description": "Platforms, tools, and guides for critical organizers 🌆",
