@@ -205,7 +205,7 @@
                 "open_issues": 3,
                 "owner": "tcnj-acm",
                 "repo": "halo",
-                "stars": 9,
+                "stars": 8,
                 "topics": [
                   "aws-s3",
                   "django",
@@ -815,7 +815,7 @@
                 "open_issues": 14,
                 "owner": "DevtranetHQ",
                 "repo": "Hacksuite",
-                "stars": 2,
+                "stars": 3,
                 "topics": [
                   "hack-suite",
                   "hackathons",
@@ -847,7 +847,7 @@
                 "open_issues": 0,
                 "owner": "microsoft",
                 "repo": "AcademicContent",
-                "stars": 2811,
+                "stars": 2812,
                 "topics": [
                   "azure",
                   "classroom",
@@ -1213,7 +1213,7 @@
                 "open_issues": 1,
                 "owner": "matiassingers",
                 "repo": "awesome-readme",
-                "stars": 21413,
+                "stars": 21417,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1562,7 +1562,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T15:33:39.887Z",
+    "last_updated": "2026-09-06T15:47:39.980Z",
     "original_repository_info": {
       "archived": false,
       "description": "Platforms, tools, and guides for critical organizers 🌆",

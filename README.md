@@ -2,7 +2,7 @@
 
 A curated open list of platforms and tools that can help you to **organize and run** tolerant and productive hackathons.
 
-> This list tries to cover what is ⚡️awesome⚡️ about [hackathons](https://en.wikipedia.org/wiki/Hackathon), hackdays and hacknights, and the community of organizers who run them! See also 🕶️[awesome-hackathons](https://github.com/mbiesiad/awesome-hackathons) ⭐ 54 | 🐛 0 | 📅 2024-05-24, 🕶️[awesome-hackathon-projects](https://github.com/Olanetsoft/awesome-hackathon-projects) ⭐ 1,809 | 🐛 6 | 📅 2025-05-20 and 🕶️[awesome-hackathon-starters](https://github.com/geekcamp-ph/awesome-hackathon-starters/issues/12) ⭐ 37 | 🐛 1 | 📅 2016-07-17. Are you interested in the *science* of hackathons? Join our new 📚 [Zotero library](https://www.zotero.org/groups/5538025/awesome_hackathons).
+> This list tries to cover what is ⚡️awesome⚡️ about [hackathons](https://en.wikipedia.org/wiki/Hackathon), hackdays and hacknights, and the community of organizers who run them! See also 🕶️[awesome-hackathons](https://github.com/mbiesiad/awesome-hackathons) ⭐ 54 | 🐛 0 | 📅 2024-05-24, 🕶️[awesome-hackathon-projects](https://github.com/Olanetsoft/awesome-hackathon-projects) ⭐ 1,813 | 🐛 6 | 📅 2025-05-20 and 🕶️[awesome-hackathon-starters](https://github.com/geekcamp-ph/awesome-hackathon-starters/issues/12) ⭐ 37 | 🐛 1 | 📅 2016-07-17. Are you interested in the *science* of hackathons? Join our new 📚 [Zotero library](https://www.zotero.org/groups/5538025/awesome_hackathons).
 
 To help improve this list, please check out the [Contributing](#contributing) section.
 
@@ -27,7 +27,7 @@ By *awesome 🕶️ hackathon platforms*, we mean web or mobile applications tha
 * [Hackerspace3](https://github.com/govhackaustralia/hackerspace3) ⭐ 24 | 🐛 53 | 🌐 Ruby | 📅 2025-09-03 - Competition Management System for the GovHack Hackathon. `ruby`
 * [DeltaHacks Portal](https://github.com/deltahacks/portal) ⭐ 20 | 🐛 10 | 🌐 TypeScript | 📅 2026-08-08 - The attendee & admin portal for DeltaHacks 10, the hackathon for change.
 * [OpenHackathon](https://github.com/kaiyuanshe/OpenHackathon-Web) ⭐ 16 | 🐛 0 | 🌐 TypeScript | 📅 2025-06-30 - Platform with Git-based Cloud Development Environment based on Next.js.
-* [Halo](https://github.com/tcnj-acm/halo) ⭐ 9 | 🐛 3 | 🌐 HTML | 📅 2025-03-10 - Hackathon Management System built on Django.
+* [Halo](https://github.com/tcnj-acm/halo) ⭐ 8 | 🐛 3 | 🌐 HTML | 📅 2025-03-10 - Hackathon Management System built on Django.
 * [Hack the Back](https://github.com/hackthevalley/hack-the-back) ⭐ 6 | 🐛 1 | 🌐 Python | 📅 2026-09-02 - An elegant backend, with ready-made GraphQL and REST endpoints.
 * [Hackathon Management System](https://github.com/Teplitsa/hackathon) ⭐ 3 | 🐛 0 | 🌐 PHP | 📅 2025-04-19 - A comprehensive WordPress plugin by [Teplitsa](https://hms.te-st.org/). `php`
 * [Opportunity Hack](https://github.com/opportunity-hack) - Skills-Based Volunteering for Social Good, matching people to projects.
@@ -71,7 +71,7 @@ By *awesome 🕶️ hackathon platforms*, we mean web or mobile applications tha
 * [Ninjathon](https://github.com/shilomagen/hackathon-matching-platform) ⭐ 5 | 🐛 0 | 🌐 JavaScript | 📅 2019-01-15 - Hackathon managing platform.
 * [Scout24](https://github.com/Scout24/hackathon-management-system) ⚠️ Archived - Hackathon management system from a company.
 * [VersusVirus App](https://github.com/VersusVirus-Hackathons/VersusVirus-App) ⭐ 4 | 🐛 8 | 🌐 TypeScript | 📅 2020-06-24 - For managing teams at large online hackathons.
-* [Hacksuite](https://github.com/DevtranetHQ/Hacksuite) ⭐ 2 | 🐛 14 | 🌐 JavaScript | 📅 2023-04-07 - A fullstack suite of apps from [Devtranet](https://devtranet.tech/) for hosting virtual hackathons.
+* [Hacksuite](https://github.com/DevtranetHQ/Hacksuite) ⭐ 3 | 🐛 14 | 🌐 JavaScript | 📅 2023-04-07 - A fullstack suite of apps from [Devtranet](https://devtranet.tech/) for hosting virtual hackathons.
 * [Find Hackathon](https://github.com/Find-Hackathon) - A Cross-Platform Mobile Application for finding Hackathons.
 
 ### Organisations
@@ -122,7 +122,7 @@ By *awesome 🕶️ hackathon platforms*, we mean web or mobile applications tha
 
 ### Coaching
 
-* [Awesome README](https://github.com/matiassingers/awesome-readme) ⭐ 21,413 | 🐛 1 | 📅 2026-08-20 - A list to inspire your coaches to motivate your teams to document their efforts ...with panache.
+* [Awesome README](https://github.com/matiassingers/awesome-readme) ⭐ 21,417 | 🐛 1 | 📅 2026-08-20 - A list to inspire your coaches to motivate your teams to document their efforts ...with panache.
 * [HELPq](https://github.com/ehzhang/helpq) ⭐ 268 | 🐛 12 | 🌐 JavaScript | 📅 2020-02-11 - Queue application with interfaces for mentors and hackers to answer/submit questions, respectively.
 * [Hangar](https://github.com/AmericanAirlines/Hangar) ⭐ 41 | 🐛 5 | 🌐 TypeScript | 📅 2024-05-02 - A Slack bot to help with judging and coaching at hackathons.
 * [TreeHacks Slack Mentorship System](https://github.com/hacktx/slack-mentorship) ⭐ 1 | 🐛 0 | 🌐 JavaScript | 📅 2015-09-24 - A Slack bot that queues requests in a #mentors channel (unmaintained as of 2015).
@@ -181,4 +181,4 @@ Licensed [CC0 - Creative Commons Public Domain](LICENSE)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
