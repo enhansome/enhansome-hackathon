@@ -962,7 +962,7 @@
                 "id": 646877233,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-08-31T16:33:35Z",
+                "last_commit": "2026-09-07T16:33:58Z",
                 "open_issues": 6,
                 "owner": "p1utoze",
                 "repo": "Hackme",
@@ -1017,8 +1017,8 @@
                 "id": 271623674,
                 "language": "JavaScript",
                 "license": null,
-                "last_commit": "2026-08-30T14:48:58Z",
-                "open_issues": 18,
+                "last_commit": "2026-09-07T15:03:31Z",
+                "open_issues": 23,
                 "owner": "hackclub",
                 "repo": "scrapbook",
                 "stars": 191,
@@ -1047,7 +1047,7 @@
                 "open_issues": 7,
                 "owner": "hackclub",
                 "repo": "hackathons",
-                "stars": 167,
+                "stars": 168,
                 "topics": [
                   "hackathons",
                   "hackclub",
@@ -1213,7 +1213,7 @@
                 "open_issues": 1,
                 "owner": "matiassingers",
                 "repo": "awesome-readme",
-                "stars": 21417,
+                "stars": 21420,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1562,7 +1562,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T15:47:39.980Z",
+    "last_updated": "2026-09-07T17:54:44.373Z",
     "original_repository_info": {
       "archived": false,
       "description": "Platforms, tools, and guides for critical organizers 🌆",
