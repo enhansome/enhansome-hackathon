@@ -21,7 +21,7 @@ By *awesome 🕶️ hackathon platforms*, we mean web or mobile applications tha
 > These can be run with a cloud provider or self-hosted, to take full control of the data. Being open source efforts, they typically embrace open standards. Several are developed by non-profits and volunteer communities.
 
 * [Civic Tech Exchange](https://github.com/DemocracyLab/CivicTechExchange) ⭐ 105 | 🐛 161 | 🌐 JavaScript | 📅 2026-08-06 - Online platform for Democracy Lab projects.
-* [Dribdat](https://github.com/dribdat/dribdat) ⭐ 89 | 🐛 94 | 🌐 Python | 📅 2026-08-29 - **Hackathons for impact, based on open data and web standards.** `python` `js`
+* [Dribdat](https://github.com/dribdat/dribdat) ⭐ 90 | 🐛 94 | 🌐 Python | 📅 2026-08-29 - **Hackathons for impact, based on open data and web standards.** `python` `js`
 * [JunctionApp](https://github.com/hackjunction/JunctionApp) ⭐ 76 | 🐛 211 | 🌐 JavaScript | 📅 2025-07-01 - All-in-one hackathon platform for organisers, maintained by Junction.
 * [Hibiscus](https://github.com/HackSC/hibiscus) ⭐ 54 | 🐛 5 | 🌐 TypeScript | 📅 2025-05-07 - An all-in-one, plug-and-play hackathon platform, created for HackSC.
 * [Hackerspace3](https://github.com/govhackaustralia/hackerspace3) ⭐ 24 | 🐛 53 | 🌐 Ruby | 📅 2025-09-03 - Competition Management System for the GovHack Hackathon. `ruby`
@@ -56,7 +56,7 @@ By *awesome 🕶️ hackathon platforms*, we mean web or mobile applications tha
 * [HackDash](https://github.com/impronunciable/hackdash) ⭐ 73 | 🐛 43 | 🌐 JavaScript | 📅 2023-09-27 - Organize hackathon ideas into a dashboard.
 * [project-hackathon](https://github.com/pheralb/project-hackathon) ⭐ 59 | 🐛 1 | 🌐 TypeScript | 📅 2023-08-11 - Hackathon management tool created at Hackafor. `typescript`
 * [Nucleus](https://github.com/hacktx/nucleus) ⭐ 52 | 🐛 5 | 🌐 Hack | 📅 2016-03-25 - Hackathon application system that integrates with MyMLH, Slack and more from HackTX.
-* [HackPortal](https://github.com/acmutd/hackportal) ⭐ 50 | 🐛 28 | 🌐 TypeScript | 📅 2025-01-27 - A platform from HackUTD for user-friendly event management.
+* [HackPortal](https://github.com/acmutd/hackportal) ⭐ 51 | 🐛 28 | 🌐 TypeScript | 📅 2025-01-27 - A platform from HackUTD for user-friendly event management.
 * [HackathonManager](https://github.com/codeRIT/hackathon-manager) ⚠️ Archived - Hackathon registration & logistics, compatible with MyMLH.
 * [Pepper](https://github.com/rohitdatta/pepper) ⭐ 28 | 🐛 13 | 🌐 Python | 📅 2022-12-08 - Designed to work with MyMLH for sign in.
 * [ApplicantAtlas](https://github.com/ApplicantAtlas/ApplicantAtlas) ⭐ 24 | 🐛 23 | 🌐 TypeScript | 📅 2024-08-27 - Made for managing applicants, RSVPs and other communications.
@@ -105,7 +105,7 @@ By *awesome 🕶️ hackathon platforms*, we mean web or mobile applications tha
 ### Promoting
 
 * [Hackalist](https://github.com/Hackalist/Hackalist.github.io#readme) ⭐ 491 | 🐛 0 | 🌐 HTML | 📅 2026-04-09 - A list of upcoming hackathons from around the world.
-* [Scrapbook](https://github.com/hackclub/scrapbook) ⭐ 191 | 🐛 23 | 🌐 JavaScript | 📅 2026-09-07 by HackClub - A daily streak system & portfolio for your projects.
+* [Scrapbook](https://github.com/hackclub/scrapbook) ⭐ 191 | 🐛 18 | 🌐 JavaScript | 📅 2026-09-08 by HackClub - A daily streak system & portfolio for your projects.
 * [Hack Club](https://github.com/hackclub/hackathons#readme) ⭐ 168 | 🐛 7 | 🌐 JavaScript | 📅 2026-09-04 - A curated list of hackathons organized for high schoolers.
 * [Hackathon Sponsorship](https://github.com/Neuro-Hack/sponsorship#readme) ⭐ 78 | 🐛 1 | 📅 2017-10-12 🕶️  A crowdsourced 'Awesome List' of companies to contact.
 * [Open Source Events](https://github.com/Catalyst-IN/OpenSourceEvents-Frontend) ⚠️ Archived - This website contains a monthly calendar of events and hackathons (project is archived as of Feb 5, 2024).
@@ -122,7 +122,7 @@ By *awesome 🕶️ hackathon platforms*, we mean web or mobile applications tha
 
 ### Coaching
 
-* [Awesome README](https://github.com/matiassingers/awesome-readme) ⭐ 21,420 | 🐛 1 | 📅 2026-08-20 - A list to inspire your coaches to motivate your teams to document their efforts ...with panache.
+* [Awesome README](https://github.com/matiassingers/awesome-readme) ⭐ 21,423 | 🐛 1 | 📅 2026-08-20 - A list to inspire your coaches to motivate your teams to document their efforts ...with panache.
 * [HELPq](https://github.com/ehzhang/helpq) ⭐ 268 | 🐛 12 | 🌐 JavaScript | 📅 2020-02-11 - Queue application with interfaces for mentors and hackers to answer/submit questions, respectively.
 * [Hangar](https://github.com/AmericanAirlines/Hangar) ⭐ 41 | 🐛 5 | 🌐 TypeScript | 📅 2024-05-02 - A Slack bot to help with judging and coaching at hackathons.
 * [TreeHacks Slack Mentorship System](https://github.com/hacktx/slack-mentorship) ⭐ 1 | 🐛 0 | 🌐 JavaScript | 📅 2015-09-24 - A Slack bot that queues requests in a #mentors channel (unmaintained as of 2015).
@@ -181,4 +181,4 @@ Licensed [CC0 - Creative Commons Public Domain](LICENSE)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
