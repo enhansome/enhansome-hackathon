@@ -228,7 +228,7 @@
                 "id": 302768057,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-02T19:40:27Z",
+                "last_commit": "2026-09-09T12:59:31Z",
                 "open_issues": 1,
                 "owner": "hackthevalley",
                 "repo": "hack-the-back",
@@ -847,7 +847,7 @@
                 "open_issues": 0,
                 "owner": "microsoft",
                 "repo": "AcademicContent",
-                "stars": 2812,
+                "stars": 2811,
                 "topics": [
                   "azure",
                   "classroom",
@@ -1047,7 +1047,7 @@
                 "open_issues": 7,
                 "owner": "hackclub",
                 "repo": "hackathons",
-                "stars": 168,
+                "stars": 167,
                 "topics": [
                   "hackathons",
                   "hackclub",
@@ -1213,7 +1213,7 @@
                 "open_issues": 1,
                 "owner": "matiassingers",
                 "repo": "awesome-readme",
-                "stars": 21423,
+                "stars": 21429,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1562,7 +1562,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T16:51:14.799Z",
+    "last_updated": "2026-09-09T16:53:58.202Z",
     "original_repository_info": {
       "archived": false,
       "description": "Platforms, tools, and guides for critical organizers 🌆",

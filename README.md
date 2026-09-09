@@ -28,7 +28,7 @@ By *awesome 🕶️ hackathon platforms*, we mean web or mobile applications tha
 * [DeltaHacks Portal](https://github.com/deltahacks/portal) ⭐ 20 | 🐛 10 | 🌐 TypeScript | 📅 2026-08-08 - The attendee & admin portal for DeltaHacks 10, the hackathon for change.
 * [OpenHackathon](https://github.com/kaiyuanshe/OpenHackathon-Web) ⭐ 16 | 🐛 0 | 🌐 TypeScript | 📅 2025-06-30 - Platform with Git-based Cloud Development Environment based on Next.js.
 * [Halo](https://github.com/tcnj-acm/halo) ⭐ 8 | 🐛 3 | 🌐 HTML | 📅 2025-03-10 - Hackathon Management System built on Django.
-* [Hack the Back](https://github.com/hackthevalley/hack-the-back) ⭐ 6 | 🐛 1 | 🌐 Python | 📅 2026-09-02 - An elegant backend, with ready-made GraphQL and REST endpoints.
+* [Hack the Back](https://github.com/hackthevalley/hack-the-back) ⭐ 6 | 🐛 1 | 🌐 Python | 📅 2026-09-09 - An elegant backend, with ready-made GraphQL and REST endpoints.
 * [Hackathon Management System](https://github.com/Teplitsa/hackathon) ⭐ 3 | 🐛 0 | 🌐 PHP | 📅 2025-04-19 - A comprehensive WordPress plugin by [Teplitsa](https://hms.te-st.org/). `php`
 * [Opportunity Hack](https://github.com/opportunity-hack) - Skills-Based Volunteering for Social Good, matching people to projects.
 
@@ -106,7 +106,7 @@ By *awesome 🕶️ hackathon platforms*, we mean web or mobile applications tha
 
 * [Hackalist](https://github.com/Hackalist/Hackalist.github.io#readme) ⭐ 491 | 🐛 0 | 🌐 HTML | 📅 2026-04-09 - A list of upcoming hackathons from around the world.
 * [Scrapbook](https://github.com/hackclub/scrapbook) ⭐ 191 | 🐛 18 | 🌐 JavaScript | 📅 2026-09-08 by HackClub - A daily streak system & portfolio for your projects.
-* [Hack Club](https://github.com/hackclub/hackathons#readme) ⭐ 168 | 🐛 7 | 🌐 JavaScript | 📅 2026-09-04 - A curated list of hackathons organized for high schoolers.
+* [Hack Club](https://github.com/hackclub/hackathons#readme) ⭐ 167 | 🐛 7 | 🌐 JavaScript | 📅 2026-09-04 - A curated list of hackathons organized for high schoolers.
 * [Hackathon Sponsorship](https://github.com/Neuro-Hack/sponsorship#readme) ⭐ 78 | 🐛 1 | 📅 2017-10-12 🕶️  A crowdsourced 'Awesome List' of companies to contact.
 * [Open Source Events](https://github.com/Catalyst-IN/OpenSourceEvents-Frontend) ⚠️ Archived - This website contains a monthly calendar of events and hackathons (project is archived as of Feb 5, 2024).
 * [Upcoding](https://github.com/sahanmndl/UpCoding-Web) ⭐ 14 | 🐛 3 | 🌐 JavaScript | 📅 2023-10-13 - Get event details of competitive programming contests, hackathons etc.
@@ -122,7 +122,7 @@ By *awesome 🕶️ hackathon platforms*, we mean web or mobile applications tha
 
 ### Coaching
 
-* [Awesome README](https://github.com/matiassingers/awesome-readme) ⭐ 21,423 | 🐛 1 | 📅 2026-08-20 - A list to inspire your coaches to motivate your teams to document their efforts ...with panache.
+* [Awesome README](https://github.com/matiassingers/awesome-readme) ⭐ 21,429 | 🐛 1 | 📅 2026-08-20 - A list to inspire your coaches to motivate your teams to document their efforts ...with panache.
 * [HELPq](https://github.com/ehzhang/helpq) ⭐ 268 | 🐛 12 | 🌐 JavaScript | 📅 2020-02-11 - Queue application with interfaces for mentors and hackers to answer/submit questions, respectively.
 * [Hangar](https://github.com/AmericanAirlines/Hangar) ⭐ 41 | 🐛 5 | 🌐 TypeScript | 📅 2024-05-02 - A Slack bot to help with judging and coaching at hackathons.
 * [TreeHacks Slack Mentorship System](https://github.com/hacktx/slack-mentorship) ⭐ 1 | 🐛 0 | 🌐 JavaScript | 📅 2015-09-24 - A Slack bot that queues requests in a #mentors channel (unmaintained as of 2015).
@@ -181,4 +181,4 @@ Licensed [CC0 - Creative Commons Public Domain](LICENSE)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._
