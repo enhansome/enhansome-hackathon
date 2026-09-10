@@ -72,7 +72,7 @@
                 "open_issues": 211,
                 "owner": "hackjunction",
                 "repo": "JunctionApp",
-                "stars": 76,
+                "stars": 77,
                 "topics": [
                   "event-management",
                   "event-planning",
@@ -205,7 +205,7 @@
                 "open_issues": 3,
                 "owner": "tcnj-acm",
                 "repo": "halo",
-                "stars": 8,
+                "stars": 9,
                 "topics": [
                   "aws-s3",
                   "django",
@@ -1017,8 +1017,8 @@
                 "id": 271623674,
                 "language": "JavaScript",
                 "license": null,
-                "last_commit": "2026-09-08T10:23:43Z",
-                "open_issues": 18,
+                "last_commit": "2026-09-10T03:40:06Z",
+                "open_issues": 19,
                 "owner": "hackclub",
                 "repo": "scrapbook",
                 "stars": 191,
@@ -1209,11 +1209,11 @@
                 "id": 29456624,
                 "language": null,
                 "license": null,
-                "last_commit": "2026-08-20T19:50:09Z",
+                "last_commit": "2026-09-10T11:30:33Z",
                 "open_issues": 1,
                 "owner": "matiassingers",
                 "repo": "awesome-readme",
-                "stars": 21429,
+                "stars": 21430,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1323,7 +1323,7 @@
                 "open_issues": 11,
                 "owner": "anishathalye",
                 "repo": "gavel",
-                "stars": 486,
+                "stars": 487,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:40:25.427Z"
@@ -1443,7 +1443,7 @@
             "id": 26335034,
             "language": "CSS",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-04T18:55:54Z",
+            "last_commit": "2026-09-09T19:45:36Z",
             "open_issues": 13,
             "owner": "MLH",
             "repo": "mlh-hackathon-organizer-guide",
@@ -1562,7 +1562,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T16:53:58.202Z",
+    "last_updated": "2026-09-10T16:41:04.048Z",
     "original_repository_info": {
       "archived": false,
       "description": "Platforms, tools, and guides for critical organizers 🌆",
@@ -1574,7 +1574,7 @@
       "open_issues": 2,
       "owner": "dribdat",
       "repo": "awesome-hackathon",
-      "stars": 293,
+      "stars": 294,
       "topics": [
         "awesome",
         "awesome-list",
