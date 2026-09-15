@@ -72,7 +72,7 @@
                 "open_issues": 211,
                 "owner": "hackjunction",
                 "repo": "JunctionApp",
-                "stars": 77,
+                "stars": 78,
                 "topics": [
                   "event-management",
                   "event-planning",
@@ -332,7 +332,7 @@
                 "open_issues": 3,
                 "owner": "ScientificClubofESI",
                 "repo": "LaraHack",
-                "stars": 121,
+                "stars": 122,
                 "topics": [
                   "admin-dashboard",
                   "administration",
@@ -847,7 +847,7 @@
                 "open_issues": 0,
                 "owner": "microsoft",
                 "repo": "AcademicContent",
-                "stars": 2810,
+                "stars": 2809,
                 "topics": [
                   "azure",
                   "classroom",
@@ -1017,8 +1017,8 @@
                 "id": 271623674,
                 "language": "JavaScript",
                 "license": null,
-                "last_commit": "2026-09-14T15:03:47Z",
-                "open_issues": 26,
+                "last_commit": "2026-09-14T18:33:08Z",
+                "open_issues": 23,
                 "owner": "hackclub",
                 "repo": "scrapbook",
                 "stars": 191,
@@ -1213,7 +1213,7 @@
                 "open_issues": 1,
                 "owner": "matiassingers",
                 "repo": "awesome-readme",
-                "stars": 21437,
+                "stars": 21442,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1562,7 +1562,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T18:12:00.223Z",
+    "last_updated": "2026-09-15T17:16:58.086Z",
     "original_repository_info": {
       "archived": false,
       "description": "Platforms, tools, and guides for critical organizers 🌆",
