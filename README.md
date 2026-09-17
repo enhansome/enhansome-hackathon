@@ -2,7 +2,7 @@
 
 A curated open list of platforms and tools that can help you to **organize and run** tolerant and productive hackathons.
 
-> This list tries to cover what is ⚡️awesome⚡️ about [hackathons](https://en.wikipedia.org/wiki/Hackathon), hackdays and hacknights, and the community of organizers who run them! See also 🕶️[awesome-hackathons](https://github.com/mbiesiad/awesome-hackathons) ⭐ 54 | 🐛 0 | 📅 2024-05-24, 🕶️[awesome-hackathon-projects](https://github.com/Olanetsoft/awesome-hackathon-projects) ⭐ 1,832 | 🐛 6 | 📅 2025-05-20 and 🕶️[awesome-hackathon-starters](https://github.com/geekcamp-ph/awesome-hackathon-starters/issues/12) ⭐ 37 | 🐛 1 | 📅 2016-07-17. Are you interested in the *science* of hackathons? Join our new 📚 [Zotero library](https://www.zotero.org/groups/5538025/awesome_hackathons).
+> This list tries to cover what is ⚡️awesome⚡️ about [hackathons](https://en.wikipedia.org/wiki/Hackathon), hackdays and hacknights, and the community of organizers who run them! See also 🕶️[awesome-hackathons](https://github.com/mbiesiad/awesome-hackathons) ⭐ 54 | 🐛 0 | 📅 2024-05-24, 🕶️[awesome-hackathon-projects](https://github.com/Olanetsoft/awesome-hackathon-projects) ⭐ 1,835 | 🐛 6 | 📅 2025-05-20 and 🕶️[awesome-hackathon-starters](https://github.com/geekcamp-ph/awesome-hackathon-starters/issues/12) ⭐ 37 | 🐛 1 | 📅 2016-07-17. Are you interested in the *science* of hackathons? Join our new 📚 [Zotero library](https://www.zotero.org/groups/5538025/awesome_hackathons).
 
 To help improve this list, please check out the [Contributing](#contributing) section.
 
@@ -59,7 +59,7 @@ By *awesome 🕶️ hackathon platforms*, we mean web or mobile applications tha
 * [HackPortal](https://github.com/acmutd/hackportal) ⭐ 51 | 🐛 28 | 🌐 TypeScript | 📅 2025-01-27 - A platform from HackUTD for user-friendly event management.
 * [HackathonManager](https://github.com/codeRIT/hackathon-manager) ⚠️ Archived - Hackathon registration & logistics, compatible with MyMLH.
 * [Pepper](https://github.com/rohitdatta/pepper) ⭐ 28 | 🐛 13 | 🌐 Python | 📅 2022-12-08 - Designed to work with MyMLH for sign in.
-* [ApplicantAtlas](https://github.com/ApplicantAtlas/ApplicantAtlas) ⭐ 24 | 🐛 23 | 🌐 TypeScript | 📅 2024-08-27 - Made for managing applicants, RSVPs and other communications.
+* [ApplicantAtlas](https://github.com/ApplicantAtlas/ApplicantAtlas) ⭐ 23 | 🐛 23 | 🌐 TypeScript | 📅 2024-08-27 - Made for managing applicants, RSVPs and other communications.
 * [chronicel](https://github.com/kbohinski/chronicel) ⭐ 19 | 🐛 2 | 🌐 HTML | 📅 2018-12-27 - A minimal registration system for a smaller, more personal hackathon.
 * [Hackatuning](https://github.com/leognmotta/hackatuning) ⭐ 15 | 🐛 54 | 🌐 JavaScript | 📅 2022-12-22 - Early stage hackathon management platform. `js`
 * [Sledge](https://github.com/HackRU/sledge) ⭐ 12 | 🐛 47 | 🌐 JavaScript | 📅 2023-07-05 - A judging system for hackathons developed at Rutgers University.
@@ -105,7 +105,7 @@ By *awesome 🕶️ hackathon platforms*, we mean web or mobile applications tha
 ### Promoting
 
 * [Hackalist](https://github.com/Hackalist/Hackalist.github.io#readme) ⭐ 491 | 🐛 0 | 🌐 HTML | 📅 2026-04-09 - A list of upcoming hackathons from around the world.
-* [Scrapbook](https://github.com/hackclub/scrapbook) ⭐ 191 | 🐛 19 | 🌐 JavaScript | 📅 2026-09-16 by HackClub - A daily streak system & portfolio for your projects.
+* [Scrapbook](https://github.com/hackclub/scrapbook) ⭐ 191 | 🐛 18 | 🌐 JavaScript | 📅 2026-09-16 by HackClub - A daily streak system & portfolio for your projects.
 * [Hack Club](https://github.com/hackclub/hackathons#readme) ⭐ 166 | 🐛 7 | 🌐 JavaScript | 📅 2026-09-04 - A curated list of hackathons organized for high schoolers.
 * [Hackathon Sponsorship](https://github.com/Neuro-Hack/sponsorship#readme) ⭐ 79 | 🐛 1 | 📅 2017-10-12 🕶️  A crowdsourced 'Awesome List' of companies to contact.
 * [Open Source Events](https://github.com/Catalyst-IN/OpenSourceEvents-Frontend) ⚠️ Archived - This website contains a monthly calendar of events and hackathons (project is archived as of Feb 5, 2024).
@@ -122,7 +122,7 @@ By *awesome 🕶️ hackathon platforms*, we mean web or mobile applications tha
 
 ### Coaching
 
-* [Awesome README](https://github.com/matiassingers/awesome-readme) ⭐ 21,445 | 🐛 1 | 📅 2026-09-10 - A list to inspire your coaches to motivate your teams to document their efforts ...with panache.
+* [Awesome README](https://github.com/matiassingers/awesome-readme) ⭐ 21,448 | 🐛 2 | 📅 2026-09-10 - A list to inspire your coaches to motivate your teams to document their efforts ...with panache.
 * [HELPq](https://github.com/ehzhang/helpq) ⭐ 268 | 🐛 12 | 🌐 JavaScript | 📅 2020-02-11 - Queue application with interfaces for mentors and hackers to answer/submit questions, respectively.
 * [Hangar](https://github.com/AmericanAirlines/Hangar) ⭐ 41 | 🐛 5 | 🌐 TypeScript | 📅 2024-05-02 - A Slack bot to help with judging and coaching at hackathons.
 * [TreeHacks Slack Mentorship System](https://github.com/hacktx/slack-mentorship) ⭐ 1 | 🐛 0 | 🌐 JavaScript | 📅 2015-09-24 - A Slack bot that queues requests in a #mentors channel (unmaintained as of 2015).
@@ -130,7 +130,7 @@ By *awesome 🕶️ hackathon platforms*, we mean web or mobile applications tha
 
 ### Evaluating
 
-* [Gavel](https://github.com/anishathalye/gavel) ⭐ 488 | 🐛 11 | 🌐 Python | 📅 2026-02-20 - A project expo judging system by HackMIT that uses fancy math to get good results.
+* [Gavel](https://github.com/anishathalye/gavel) ⭐ 489 | 🐛 11 | 🌐 Python | 📅 2026-02-20 - A project expo judging system by HackMIT that uses fancy math to get good results.
 * [Expo Table app](https://github.com/nealrs/expo#fork-destination-box) ⭐ 56 | 🐛 0 | 🌐 JavaScript | 📅 2017-06-20 - Create a Devpost Expo table frontend.
 * [Rankeer](https://github.com/Lucasbrunoferreira/rankeer) ⭐ 11 | 🐛 0 | 🌐 TypeScript | 📅 2021-07-21 - An elaborate student project about management and evaluation of hackathons.
 * [Evaluation Manual](https://github.com/mayurah/Evaluation-Manual) ⭐ 2 | 🐛 0 | 📅 2017-06-02 - Older guidance sourced from Hacker Earth.
@@ -181,4 +181,4 @@ Licensed [CC0 - Creative Commons Public Domain](LICENSE)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
