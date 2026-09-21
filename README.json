@@ -38,8 +38,8 @@
                 "id": 42503174,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-08-29T15:00:30Z",
-                "open_issues": 94,
+                "last_commit": "2026-09-21T17:10:26Z",
+                "open_issues": 95,
                 "owner": "dribdat",
                 "repo": "dribdat",
                 "stars": 91,
@@ -802,7 +802,7 @@
             {
               "node_type": "item",
               "title": "Hacksuite",
-              "description": "A fullstack suite of apps from Devtranet for hosting virtual hackathons.",
+              "description": "A fullstack suite of apps for hosting virtual hackathons.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -962,7 +962,7 @@
                 "id": 646877233,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-09-14T16:32:55Z",
+                "last_commit": "2026-09-21T16:32:58Z",
                 "open_issues": 6,
                 "owner": "p1utoze",
                 "repo": "Hackme",
@@ -1017,8 +1017,8 @@
                 "id": 271623674,
                 "language": "JavaScript",
                 "license": null,
-                "last_commit": "2026-09-16T18:24:32Z",
-                "open_issues": 18,
+                "last_commit": "2026-09-21T15:04:01Z",
+                "open_issues": 23,
                 "owner": "hackclub",
                 "repo": "scrapbook",
                 "stars": 191,
@@ -1056,6 +1056,36 @@
                 ]
               },
               "first_seen": "2026-08-28T22:40:25.427Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Hack-HQ",
+              "description": "(www) - A curated, community-driven list of open & upcoming hackathons, updated automatically.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Your HQ for every hackathon worth joining: A curated, community-driven list of open & upcoming hackathons, updated automatically.",
+                "homepage": "https://hacking-hq.com",
+                "id": 1282457520,
+                "language": "TypeScript",
+                "license": "MIT",
+                "last_commit": "2026-09-20T17:22:52Z",
+                "open_issues": 4,
+                "owner": "Hack-HQ",
+                "repo": "hackhq",
+                "stars": 114,
+                "topics": [
+                  "awesome-list",
+                  "coding-events",
+                  "devpost",
+                  "hackathon",
+                  "hackathons",
+                  "hacktivism",
+                  "mlh",
+                  "students"
+                ]
+              },
+              "first_seen": "2026-09-21T18:19:14.279Z"
             },
             {
               "node_type": "item",
@@ -1213,7 +1243,7 @@
                 "open_issues": 1,
                 "owner": "matiassingers",
                 "repo": "awesome-readme",
-                "stars": 21457,
+                "stars": 21462,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1562,16 +1592,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T16:29:39.767Z",
+    "last_updated": "2026-09-21T18:19:14.279Z",
     "original_repository_info": {
       "archived": false,
       "description": "Platforms, tools, and guides for critical organizers 🌆",
-      "homepage": null,
+      "homepage": "https://open-awesome.com/awesome/hackathon",
       "id": 292300366,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-05-05T17:45:20Z",
-      "open_issues": 3,
+      "last_commit": "2026-09-21T16:58:05Z",
+      "open_issues": 0,
       "owner": "dribdat",
       "repo": "awesome-hackathon",
       "stars": 301,
@@ -1582,7 +1612,7 @@
         "hackathons"
       ]
     },
-    "original_repository_sha": "b4d68f0d5a67f473b2d86d30785de23e59a44930",
+    "original_repository_sha": "af8605b16701cde5e7e5c9bdb2a31d91abf7bd87",
     "enhanced_repository": "enhansome/enhansome-hackathon",
     "enhanced_repository_description": null,
     "title": "Awesome Hackathon with stars"
