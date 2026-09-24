@@ -2,7 +2,7 @@
 
 A curated open list of platforms and tools that can help you to **organize and run** tolerant and productive hackathons.
 
-> This list tries to cover what is ⚡️awesome⚡️ about [hackathons](https://en.wikipedia.org/wiki/Hackathon), hackdays and hacknights, and the community of organizers who run them! See also 🕶️[awesome-hackathons](https://github.com/mbiesiad/awesome-hackathons) ⭐ 54 | 🐛 1 | 📅 2024-05-24, 🕶️[awesome-hackathon-projects](https://github.com/Olanetsoft/awesome-hackathon-projects) ⭐ 1,847 | 🐛 6 | 📅 2025-05-20 and 🕶️[awesome-hackathon-starters](https://github.com/geekcamp-ph/awesome-hackathon-starters/issues/12) ⭐ 37 | 🐛 1 | 📅 2016-07-17. Are you interested in the *science* of hackathons? Join our new 📚 [Zotero library](https://www.zotero.org/groups/5538025/awesome_hackathons).
+> This list tries to cover what is ⚡️awesome⚡️ about [hackathons](https://en.wikipedia.org/wiki/Hackathon), hackdays and hacknights, and the community of organizers who run them! See also 🕶️[awesome-hackathons](https://github.com/mbiesiad/awesome-hackathons) ⭐ 54 | 🐛 1 | 📅 2024-05-24, 🕶️[awesome-hackathon-projects](https://github.com/Olanetsoft/awesome-hackathon-projects) ⭐ 1,845 | 🐛 6 | 📅 2025-05-20 and 🕶️[awesome-hackathon-starters](https://github.com/geekcamp-ph/awesome-hackathon-starters/issues/12) ⭐ 37 | 🐛 1 | 📅 2016-07-17. Are you interested in the *science* of hackathons? Join our new 📚 [Zotero library](https://www.zotero.org/groups/5538025/awesome_hackathons).
 
 To help improve this list, please check out the [Contributing](#contributing) section.
 
@@ -108,9 +108,9 @@ By *awesome 🕶️ hackathon platforms*, we mean web or mobile applications tha
 ### Promoting
 
 * [Hackalist](https://github.com/Hackalist/Hackalist.github.io#readme) ⭐ 491 | 🐛 0 | 🌐 HTML | 📅 2026-04-09 - A list of upcoming hackathons from around the world.
-* [Scrapbook](https://github.com/hackclub/scrapbook) ⭐ 191 | 🐛 18 | 🌐 JavaScript | 📅 2026-09-22 by HackClub - A daily streak system & portfolio for your projects.
+* [Scrapbook](https://github.com/hackclub/scrapbook) ⭐ 191 | 🐛 18 | 🌐 JavaScript | 📅 2026-09-24 by HackClub - A daily streak system & portfolio for your projects.
 * [Hack Club](https://github.com/hackclub/hackathons#readme) ⭐ 166 | 🐛 7 | 🌐 JavaScript | 📅 2026-09-04 - A curated list of hackathons organized for high schoolers.
-* [Hack-HQ](https://github.com/Hack-HQ/hackhq) ⭐ 114 | 🐛 3 | 🌐 TypeScript | 📅 2026-09-23 ([www](https://hacking-hq.com/)) - A curated, community-driven list of open & upcoming hackathons, updated automatically.
+* [Hack-HQ](https://github.com/Hack-HQ/hackhq) ⭐ 115 | 🐛 3 | 🌐 TypeScript | 📅 2026-09-23 ([www](https://hacking-hq.com/)) - A curated, community-driven list of open & upcoming hackathons, updated automatically.
 * [Hackathon Sponsorship](https://github.com/Neuro-Hack/sponsorship#readme) ⭐ 79 | 🐛 1 | 📅 2017-10-12 🕶️  A crowdsourced 'Awesome List' of companies to contact.
 * [Open Source Events](https://github.com/Catalyst-IN/OpenSourceEvents-Frontend) ⚠️ Archived - This website contains a monthly calendar of events and hackathons (project is archived as of Feb 5, 2024).
 * [Upcoding](https://github.com/sahanmndl/UpCoding-Web) ⭐ 13 | 🐛 3 | 🌐 JavaScript | 📅 2023-10-13 - Get event details of competitive programming contests, hackathons etc.
@@ -153,7 +153,7 @@ By *awesome 🕶️ hackathon platforms*, we mean web or mobile applications tha
 * [MLH Organizer Guide](https://github.com/MLH/mlh-hackathon-organizer-guide) ⭐ 348 | 🐛 17 | 🌐 CSS | 📅 2026-09-14 - Guide from Major League Hacking, popular at US schools.
 * [Hackathon.guide](https://github.com/JoshData/hackathon.guide) ⭐ 179 | 🐛 3 | 🌐 HTML | 📅 2020-06-07 - A step-by-step guide by seasoned organizer Joshua Tauberer.
 * [Hackathon Hackers Guide](https://github.com/HackathonHackers/Hackathon-Resources/blob/master/RESOURCES.md) ⭐ 26 | 🐛 0 | 🌐 PHP | 📅 2015-12-16 - Collection of high quality hackathon resources. See also [Etiquette](https://medium.com/hackathon-hackers/hackathon-hackers-etiquette-cbcb9d1cda54#.dmgz1wp4y) and [Subgroups](https://github.com/HackathonHackers/groups) ⭐ 216 | 🐛 5 | 📅 2017-11-15.
-* [Hackathon Leitfaden](https://github.com/okfde/hackathon-leitfaden) ⭐ 13 | 🐛 6 | 🌐 TeX | 📅 2021-07-13 - (In German) Printed guide for municipalities.
+* [Hackathon Leitfaden](https://github.com/okfde/hackathon-leitfaden) ⭐ 14 | 🐛 6 | 🌐 TeX | 📅 2021-07-13 - (In German) Printed guide for municipalities.
 * [OpenHatch In-Person Event Handbook](https://github.com/openhatch/in-person-event-handbook) ⭐ 13 | 🐛 7 | 🌐 Python | 📅 2019-05-28 - For getting your open source project ready for new contributors.
 * [Dribdat wiki](https://github.com/dribdat/docs/wiki) ⭐ 0 | 🐛 0 | 🌐 HTML | 📅 2026-09-21 - Community sourced guidelines from an open source project.
 * [GitHub Guide to Hackathons](https://hackathons.github.com/) - Join a community connected by code, with tips & tricks from GitHub.
@@ -186,4 +186,4 @@ Licensed [CC0 - Creative Commons Public Domain](LICENSE)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._
