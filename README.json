@@ -1021,7 +1021,7 @@
                 "open_issues": 18,
                 "owner": "hackclub",
                 "repo": "scrapbook",
-                "stars": 190,
+                "stars": 191,
                 "topics": [
                   "hackclub",
                   "hacktoberfest",
@@ -1069,11 +1069,11 @@
                 "id": 1282457520,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-24T22:57:01Z",
+                "last_commit": "2026-09-25T18:20:47Z",
                 "open_issues": 3,
                 "owner": "Hack-HQ",
                 "repo": "hackhq",
-                "stars": 116,
+                "stars": 118,
                 "topics": [
                   "awesome-list",
                   "coding-events",
@@ -1243,7 +1243,7 @@
                 "open_issues": 1,
                 "owner": "matiassingers",
                 "repo": "awesome-readme",
-                "stars": 21484,
+                "stars": 21488,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1477,7 +1477,7 @@
             "open_issues": 16,
             "owner": "MLH",
             "repo": "mlh-hackathon-organizer-guide",
-            "stars": 348,
+            "stars": 349,
             "topics": []
           },
           "first_seen": "2026-08-28T22:40:25.427Z"
@@ -1592,7 +1592,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T17:32:57.380Z",
+    "last_updated": "2026-09-26T16:45:54.262Z",
     "original_repository_info": {
       "archived": false,
       "description": "Platforms, tools, and guides for critical organizers 🌆",
