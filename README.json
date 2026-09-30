@@ -69,7 +69,7 @@
                 "language": "JavaScript",
                 "license": "AGPL-3.0",
                 "last_commit": "2025-07-01T19:09:52Z",
-                "open_issues": 211,
+                "open_issues": 210,
                 "owner": "hackjunction",
                 "repo": "JunctionApp",
                 "stars": 78,
@@ -847,7 +847,7 @@
                 "open_issues": 0,
                 "owner": "microsoft",
                 "repo": "AcademicContent",
-                "stars": 2811,
+                "stars": 2812,
                 "topics": [
                   "azure",
                   "classroom",
@@ -1069,7 +1069,7 @@
                 "id": 1282457520,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-28T20:28:12Z",
+                "last_commit": "2026-09-29T19:14:19Z",
                 "open_issues": 3,
                 "owner": "Hack-HQ",
                 "repo": "hackhq",
@@ -1240,10 +1240,10 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-09-28T20:10:26Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "matiassingers",
                 "repo": "awesome-readme",
-                "stars": 21509,
+                "stars": 21516,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1269,7 +1269,7 @@
                 "open_issues": 12,
                 "owner": "ehzhang",
                 "repo": "HELPq",
-                "stars": 268,
+                "stars": 269,
                 "topics": [
                   "classroom",
                   "hackathon",
@@ -1592,7 +1592,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T18:16:00.479Z",
+    "last_updated": "2026-09-30T18:08:15.000Z",
     "original_repository_info": {
       "archived": false,
       "description": "Platforms, tools, and guides for critical organizers 🌆",
