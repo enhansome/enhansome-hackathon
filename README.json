@@ -21,7 +21,7 @@
                 "open_issues": 161,
                 "owner": "DemocracyLab",
                 "repo": "CivicTechExchange",
-                "stars": 105,
+                "stars": 104,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:40:25.427Z"
@@ -228,8 +228,8 @@
                 "id": 302768057,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-01T17:52:40Z",
-                "open_issues": 4,
+                "last_commit": "2026-10-04T15:56:15Z",
+                "open_issues": 1,
                 "owner": "hackthevalley",
                 "repo": "hack-the-back",
                 "stars": 6,
@@ -847,7 +847,7 @@
                 "open_issues": 0,
                 "owner": "microsoft",
                 "repo": "AcademicContent",
-                "stars": 2814,
+                "stars": 2816,
                 "topics": [
                   "azure",
                   "classroom",
@@ -1069,7 +1069,7 @@
                 "id": 1282457520,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-02T19:05:26Z",
+                "last_commit": "2026-10-03T17:53:16Z",
                 "open_issues": 4,
                 "owner": "Hack-HQ",
                 "repo": "hackhq",
@@ -1243,7 +1243,7 @@
                 "open_issues": 2,
                 "owner": "matiassingers",
                 "repo": "awesome-readme",
-                "stars": 21532,
+                "stars": 21535,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1592,7 +1592,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T16:43:50.662Z",
+    "last_updated": "2026-10-04T17:02:25.829Z",
     "original_repository_info": {
       "archived": false,
       "description": "Platforms, tools, and guides for critical organizers 🌆",
@@ -1601,7 +1601,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-09-21T16:58:05Z",
-      "open_issues": 1,
+      "open_issues": 2,
       "owner": "dribdat",
       "repo": "awesome-hackathon",
       "stars": 304,
