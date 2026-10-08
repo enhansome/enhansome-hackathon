@@ -1069,11 +1069,11 @@
                 "id": 1282457520,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-06T19:23:12Z",
+                "last_commit": "2026-10-07T19:50:03Z",
                 "open_issues": 4,
                 "owner": "Hack-HQ",
                 "repo": "hackhq",
-                "stars": 121,
+                "stars": 120,
                 "topics": [
                   "awesome-list",
                   "coding-events",
@@ -1243,7 +1243,7 @@
                 "open_issues": 2,
                 "owner": "matiassingers",
                 "repo": "awesome-readme",
-                "stars": 21546,
+                "stars": 21550,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1592,7 +1592,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T19:05:29.756Z",
+    "last_updated": "2026-10-08T19:00:58.126Z",
     "original_repository_info": {
       "archived": false,
       "description": "Platforms, tools, and guides for critical organizers 🌆",
