@@ -2,7 +2,7 @@
 
 A curated open list of platforms and tools that can help you to **organize and run** tolerant and productive hackathons.
 
-> This list tries to cover what is ⚡️awesome⚡️ about [hackathons](https://en.wikipedia.org/wiki/Hackathon), hackdays and hacknights, and the community of organizers who run them! See also 🕶️[awesome-hackathons](https://github.com/mbiesiad/awesome-hackathons) ⭐ 54 | 🐛 1 | 📅 2024-05-24, 🕶️[awesome-hackathon-projects](https://github.com/Olanetsoft/awesome-hackathon-projects) ⭐ 1,871 | 🐛 6 | 📅 2025-05-20 and 🕶️[awesome-hackathon-starters](https://github.com/geekcamp-ph/awesome-hackathon-starters/issues/12) ⭐ 37 | 🐛 1 | 📅 2016-07-17. Are you interested in the *science* of hackathons? Join our new 📚 [Zotero library](https://www.zotero.org/groups/5538025/awesome_hackathons).
+> This list tries to cover what is ⚡️awesome⚡️ about [hackathons](https://en.wikipedia.org/wiki/Hackathon), hackdays and hacknights, and the community of organizers who run them! See also 🕶️[awesome-hackathons](https://github.com/mbiesiad/awesome-hackathons) ⭐ 54 | 🐛 1 | 📅 2024-05-24, 🕶️[awesome-hackathon-projects](https://github.com/Olanetsoft/awesome-hackathon-projects) ⭐ 1,872 | 🐛 6 | 📅 2025-05-20 and 🕶️[awesome-hackathon-starters](https://github.com/geekcamp-ph/awesome-hackathon-starters/issues/12) ⭐ 37 | 🐛 1 | 📅 2016-07-17. Are you interested in the *science* of hackathons? Join our new 📚 [Zotero library](https://www.zotero.org/groups/5538025/awesome_hackathons).
 
 To help improve this list, please check out the [Contributing](#contributing) section.
 
@@ -43,7 +43,7 @@ By *awesome 🕶️ hackathon platforms*, we mean web or mobile applications tha
 * [HackHQ](https://github.com/hackhqio) ([www](https://hackhq.io/)) - All-in-one hackathon and competition platform with built-in registration, submissions, judging, and live results. No account required for participants or judges. Launch your event in 30 minutes.
 * [HackHub](https://github.com/hackhub-team) ([www](https://www.hackhub.com/event), [docs](https://help.hackhub.com/)) - Canadian company with a featureful event and talent scouting app.
 * [Hackworks](https://github.com/hackworks) ([docs](https://help.hackworks.com/knowledge)) - Open innovation challenge platform from experienced event organizers in Canada.
-* [Hackyard](https://github.com/joinhackyard) ([www](https://hackyard.tech)) - Community-driven AI hackathons for solo builders. Small, capped weekly events where the theme drops at kickoff, everyone builds solo with any AI model, and the community votes with counts hidden until close.
+* [Hackyard](https://hackyard.tech) - Community-driven AI hackathons for solo builders. Small, capped week-long events twice a month: one theme, everyone builds solo with any AI model, and the community votes with counts hidden until close.
 * [Stackref](https://github.com/StackRef) ([docs](https://docs.stackref.com/)) - Internal hackathon and ideation, with cloud provisioning and judging features.
 * [TAIKAI](https://github.com/taikai) ([www](https://taikai.network/)) - Connects creators and companies, using hackathons, bounties and hiring challenges.
 
@@ -110,7 +110,7 @@ By *awesome 🕶️ hackathon platforms*, we mean web or mobile applications tha
 * [Hackalist](https://github.com/Hackalist/Hackalist.github.io#readme) ⭐ 491 | 🐛 0 | 🌐 HTML | 📅 2026-04-09 - A list of upcoming hackathons from around the world.
 * [Scrapbook](https://github.com/hackclub/scrapbook) ⭐ 191 | 🐛 19 | 🌐 JavaScript | 📅 2026-10-06 by HackClub - A daily streak system & portfolio for your projects.
 * [Hack Club](https://github.com/hackclub/hackathons#readme) ⭐ 167 | 🐛 7 | 🌐 JavaScript | 📅 2026-09-04 - A curated list of hackathons organized for high schoolers.
-* [Hack-HQ](https://github.com/Hack-HQ/hackhq) ⭐ 120 | 🐛 4 | 🌐 TypeScript | 📅 2026-10-07 ([www](https://hacking-hq.com/)) - A curated, community-driven list of open & upcoming hackathons, updated automatically.
+* [Hack-HQ](https://github.com/Hack-HQ/hackhq) ⭐ 120 | 🐛 4 | 🌐 TypeScript | 📅 2026-10-08 ([www](https://hacking-hq.com/)) - A curated, community-driven list of open & upcoming hackathons, updated automatically.
 * [Hackathon Sponsorship](https://github.com/Neuro-Hack/sponsorship#readme) ⭐ 80 | 🐛 1 | 📅 2017-10-12 🕶️  A crowdsourced 'Awesome List' of companies to contact.
 * [Open Source Events](https://github.com/Catalyst-IN/OpenSourceEvents-Frontend) ⚠️ Archived - This website contains a monthly calendar of events and hackathons (project is archived as of Feb 5, 2024).
 * [Upcoding](https://github.com/sahanmndl/UpCoding-Web) ⭐ 13 | 🐛 3 | 🌐 JavaScript | 📅 2023-10-13 - Get event details of competitive programming contests, hackathons etc.
@@ -150,7 +150,7 @@ By *awesome 🕶️ hackathon platforms*, we mean web or mobile applications tha
 > These are helpful handbooks, literature collections and articles that will give you some orientation, and help you to prepare a plan for organizing your event.
 
 * [Hackday Manifesto](https://github.com/hackdaymanifesto/site) ⭐ 430 | 🐛 11 | 🌐 HTML | 📅 2025-01-31 - How to make your event a success, and avoid common pitfalls.
-* [MLH Organizer Guide](https://github.com/MLH/mlh-hackathon-organizer-guide) ⭐ 351 | 🐛 16 | 🌐 CSS | 📅 2026-09-24 - Guide from Major League Hacking, popular at US schools.
+* [MLH Organizer Guide](https://github.com/MLH/mlh-hackathon-organizer-guide) ⭐ 351 | 🐛 15 | 🌐 CSS | 📅 2026-09-24 - Guide from Major League Hacking, popular at US schools.
 * [Hackathon.guide](https://github.com/JoshData/hackathon.guide) ⭐ 180 | 🐛 3 | 🌐 HTML | 📅 2020-06-07 - A step-by-step guide by seasoned organizer Joshua Tauberer.
 * [Hackathon Hackers Guide](https://github.com/HackathonHackers/Hackathon-Resources/blob/master/RESOURCES.md) ⭐ 26 | 🐛 0 | 🌐 PHP | 📅 2015-12-16 - Collection of high quality hackathon resources. See also [Etiquette](https://medium.com/hackathon-hackers/hackathon-hackers-etiquette-cbcb9d1cda54#.dmgz1wp4y) and [Subgroups](https://github.com/HackathonHackers/groups) ⭐ 216 | 🐛 5 | 📅 2017-11-15.
 * [Hackathon Leitfaden](https://github.com/okfde/hackathon-leitfaden) ⭐ 14 | 🐛 6 | 🌐 TeX | 📅 2021-07-13 - (In German) Printed guide for municipalities.
@@ -186,4 +186,4 @@ Licensed [CC0 - Creative Commons Public Domain](LICENSE)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._

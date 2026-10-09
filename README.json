@@ -847,7 +847,7 @@
                 "open_issues": 0,
                 "owner": "microsoft",
                 "repo": "AcademicContent",
-                "stars": 2816,
+                "stars": 2818,
                 "topics": [
                   "azure",
                   "classroom",
@@ -1069,7 +1069,7 @@
                 "id": 1282457520,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-07T19:50:03Z",
+                "last_commit": "2026-10-08T19:45:03Z",
                 "open_issues": 4,
                 "owner": "Hack-HQ",
                 "repo": "hackhq",
@@ -1474,7 +1474,7 @@
             "language": "CSS",
             "license": "NOASSERTION",
             "last_commit": "2026-09-24T20:50:29Z",
-            "open_issues": 16,
+            "open_issues": 15,
             "owner": "MLH",
             "repo": "mlh-hackathon-organizer-guide",
             "stars": 351,
@@ -1592,7 +1592,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T19:00:58.126Z",
+    "last_updated": "2026-10-09T18:31:16.384Z",
     "original_repository_info": {
       "archived": false,
       "description": "Platforms, tools, and guides for critical organizers 🌆",
@@ -1600,11 +1600,11 @@
       "id": 292300366,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-09-21T16:58:05Z",
-      "open_issues": 3,
+      "last_commit": "2026-10-08T20:49:49Z",
+      "open_issues": 2,
       "owner": "dribdat",
       "repo": "awesome-hackathon",
-      "stars": 306,
+      "stars": 307,
       "topics": [
         "awesome",
         "awesome-list",
@@ -1612,7 +1612,7 @@
         "hackathons"
       ]
     },
-    "original_repository_sha": "af8605b16701cde5e7e5c9bdb2a31d91abf7bd87",
+    "original_repository_sha": "ecf0b1f4a4aa449541eeca6559253bdc92dce05c",
     "enhanced_repository": "enhansome/enhansome-hackathon",
     "enhanced_repository_description": null,
     "title": "Awesome Hackathon with stars"
