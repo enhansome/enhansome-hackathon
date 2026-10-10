@@ -287,7 +287,7 @@
                 "open_issues": 60,
                 "owner": "techx",
                 "repo": "quill",
-                "stars": 452,
+                "stars": 453,
                 "topics": [
                   "hackathon",
                   "registration"
@@ -1069,7 +1069,7 @@
                 "id": 1282457520,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-08T19:45:03Z",
+                "last_commit": "2026-10-09T19:22:49Z",
                 "open_issues": 4,
                 "owner": "Hack-HQ",
                 "repo": "hackhq",
@@ -1243,7 +1243,7 @@
                 "open_issues": 2,
                 "owner": "matiassingers",
                 "repo": "awesome-readme",
-                "stars": 21550,
+                "stars": 21552,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1592,7 +1592,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T18:31:16.384Z",
+    "last_updated": "2026-10-10T17:28:23.561Z",
     "original_repository_info": {
       "archived": false,
       "description": "Platforms, tools, and guides for critical organizers 🌆",
@@ -1604,7 +1604,7 @@
       "open_issues": 2,
       "owner": "dribdat",
       "repo": "awesome-hackathon",
-      "stars": 307,
+      "stars": 308,
       "topics": [
         "awesome",
         "awesome-list",
