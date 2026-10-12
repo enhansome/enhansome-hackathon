@@ -228,7 +228,7 @@
                 "id": 302768057,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-05T18:52:44Z",
+                "last_commit": "2026-10-12T21:23:02Z",
                 "open_issues": 1,
                 "owner": "hackthevalley",
                 "repo": "hack-the-back",
@@ -962,7 +962,7 @@
                 "id": 646877233,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-10-05T16:37:38Z",
+                "last_commit": "2026-10-12T16:33:59Z",
                 "open_issues": 6,
                 "owner": "p1utoze",
                 "repo": "Hackme",
@@ -1069,8 +1069,8 @@
                 "id": 1282457520,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-10T18:19:07Z",
-                "open_issues": 4,
+                "last_commit": "2026-10-11T18:43:50Z",
+                "open_issues": 5,
                 "owner": "Hack-HQ",
                 "repo": "hackhq",
                 "stars": 120,
@@ -1103,7 +1103,7 @@
                 "open_issues": 1,
                 "owner": "Neuro-Hack",
                 "repo": "sponsorship",
-                "stars": 80,
+                "stars": 81,
                 "topics": [
                   "awesome-list",
                   "hackathon",
@@ -1243,7 +1243,7 @@
                 "open_issues": 2,
                 "owner": "matiassingers",
                 "repo": "awesome-readme",
-                "stars": 21556,
+                "stars": 21560,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1592,7 +1592,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T17:47:42.285Z",
+    "last_updated": "2026-10-12T21:24:38.395Z",
     "original_repository_info": {
       "archived": false,
       "description": "Platforms, tools, and guides for critical organizers 🌆",
@@ -1604,7 +1604,7 @@
       "open_issues": 2,
       "owner": "dribdat",
       "repo": "awesome-hackathon",
-      "stars": 308,
+      "stars": 309,
       "topics": [
         "awesome",
         "awesome-list",
