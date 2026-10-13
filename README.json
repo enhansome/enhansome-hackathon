@@ -228,7 +228,7 @@
                 "id": 302768057,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-12T21:23:02Z",
+                "last_commit": "2026-10-13T13:46:12Z",
                 "open_issues": 1,
                 "owner": "hackthevalley",
                 "repo": "hack-the-back",
@@ -287,7 +287,7 @@
                 "open_issues": 60,
                 "owner": "techx",
                 "repo": "quill",
-                "stars": 453,
+                "stars": 454,
                 "topics": [
                   "hackathon",
                   "registration"
@@ -1017,8 +1017,8 @@
                 "id": 271623674,
                 "language": "JavaScript",
                 "license": null,
-                "last_commit": "2026-10-06T11:54:21Z",
-                "open_issues": 19,
+                "last_commit": "2026-10-13T16:48:35Z",
+                "open_issues": 24,
                 "owner": "hackclub",
                 "repo": "scrapbook",
                 "stars": 191,
@@ -1069,7 +1069,7 @@
                 "id": 1282457520,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-11T18:43:50Z",
+                "last_commit": "2026-10-12T22:03:05Z",
                 "open_issues": 5,
                 "owner": "Hack-HQ",
                 "repo": "hackhq",
@@ -1243,7 +1243,7 @@
                 "open_issues": 2,
                 "owner": "matiassingers",
                 "repo": "awesome-readme",
-                "stars": 21560,
+                "stars": 21565,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1477,7 +1477,7 @@
             "open_issues": 15,
             "owner": "MLH",
             "repo": "mlh-hackathon-organizer-guide",
-            "stars": 351,
+            "stars": 352,
             "topics": []
           },
           "first_seen": "2026-08-28T22:40:25.427Z"
@@ -1592,7 +1592,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T21:24:38.395Z",
+    "last_updated": "2026-10-13T19:32:36.644Z",
     "original_repository_info": {
       "archived": false,
       "description": "Platforms, tools, and guides for critical organizers 🌆",
