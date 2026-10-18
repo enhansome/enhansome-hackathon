@@ -146,8 +146,8 @@
                 "id": 526394063,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-16T20:04:19Z",
-                "open_issues": 10,
+                "last_commit": "2026-10-18T16:07:43Z",
+                "open_issues": 17,
                 "owner": "deltahacks",
                 "repo": "portal",
                 "stars": 20,
@@ -1017,8 +1017,8 @@
                 "id": 271623674,
                 "language": "JavaScript",
                 "license": null,
-                "last_commit": "2026-10-14T08:59:08Z",
-                "open_issues": 23,
+                "last_commit": "2026-10-17T22:08:56Z",
+                "open_issues": 19,
                 "owner": "hackclub",
                 "repo": "scrapbook",
                 "stars": 191,
@@ -1069,11 +1069,11 @@
                 "id": 1282457520,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-16T17:53:40Z",
+                "last_commit": "2026-10-17T16:56:44Z",
                 "open_issues": 6,
                 "owner": "Hack-HQ",
                 "repo": "hackhq",
-                "stars": 120,
+                "stars": 122,
                 "topics": [
                   "awesome-list",
                   "coding-events",
@@ -1243,7 +1243,7 @@
                 "open_issues": 2,
                 "owner": "matiassingers",
                 "repo": "awesome-readme",
-                "stars": 21574,
+                "stars": 21581,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1592,7 +1592,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T15:56:58.637Z",
+    "last_updated": "2026-10-18T16:08:09.987Z",
     "original_repository_info": {
       "archived": false,
       "description": "Platforms, tools, and guides for critical organizers 🌆",
