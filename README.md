@@ -110,7 +110,7 @@ By *awesome 🕶️ hackathon platforms*, we mean web or mobile applications tha
 * [Hackalist](https://github.com/Hackalist/Hackalist.github.io#readme) ⭐ 491 | 🐛 0 | 🌐 HTML | 📅 2026-10-19 - A list of upcoming hackathons from around the world.
 * [Scrapbook](https://github.com/hackclub/scrapbook) ⭐ 191 | 🐛 19 | 🌐 JavaScript | 📅 2026-10-17 by HackClub - A daily streak system & portfolio for your projects.
 * [Hack Club](https://github.com/hackclub/hackathons#readme) ⭐ 167 | 🐛 7 | 🌐 JavaScript | 📅 2026-09-04 - A curated list of hackathons organized for high schoolers.
-* [Hack-HQ](https://github.com/Hack-HQ/hackhq) ⭐ 122 | 🐛 6 | 🌐 TypeScript | 📅 2026-10-20 ([www](https://hacking-hq.com/)) - A curated, community-driven list of open & upcoming hackathons, updated automatically.
+* [Hack-HQ](https://github.com/Hack-HQ/hackhq) ⭐ 123 | 🐛 6 | 🌐 TypeScript | 📅 2026-10-21 ([www](https://hacking-hq.com/)) - A curated, community-driven list of open & upcoming hackathons, updated automatically.
 * [Hackathon Sponsorship](https://github.com/Neuro-Hack/sponsorship#readme) ⭐ 80 | 🐛 1 | 📅 2017-10-12 🕶️  A crowdsourced 'Awesome List' of companies to contact.
 * [Open Source Events](https://github.com/Catalyst-IN/OpenSourceEvents-Frontend) ⚠️ Archived - This website contains a monthly calendar of events and hackathons (project is archived as of Feb 5, 2024).
 * [Upcoding](https://github.com/sahanmndl/UpCoding-Web) ⭐ 13 | 🐛 3 | 🌐 JavaScript | 📅 2023-10-13 - Get event details of competitive programming contests, hackathons etc.
@@ -126,7 +126,7 @@ By *awesome 🕶️ hackathon platforms*, we mean web or mobile applications tha
 
 ### Coaching
 
-* [Awesome README](https://github.com/matiassingers/awesome-readme) ⭐ 21,598 | 🐛 2 | 📅 2026-10-14 - A list to inspire your coaches to motivate your teams to document their efforts ...with panache.
+* [Awesome README](https://github.com/matiassingers/awesome-readme) ⭐ 21,604 | 🐛 2 | 📅 2026-10-14 - A list to inspire your coaches to motivate your teams to document their efforts ...with panache.
 * [HELPq](https://github.com/ehzhang/helpq) ⭐ 269 | 🐛 12 | 🌐 JavaScript | 📅 2020-02-11 - Queue application with interfaces for mentors and hackers to answer/submit questions, respectively.
 * [Hangar](https://github.com/AmericanAirlines/Hangar) ⭐ 41 | 🐛 5 | 🌐 TypeScript | 📅 2024-05-02 - A Slack bot to help with judging and coaching at hackathons.
 * [TreeHacks Slack Mentorship System](https://github.com/hacktx/slack-mentorship) ⭐ 1 | 🐛 0 | 🌐 JavaScript | 📅 2015-09-24 - A Slack bot that queues requests in a #mentors channel (unmaintained as of 2015).
@@ -186,4 +186,4 @@ Licensed [CC0 - Creative Commons Public Domain](LICENSE)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._
