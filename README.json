@@ -1069,8 +1069,8 @@
                 "id": 1282457520,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-26T19:49:54Z",
-                "open_issues": 6,
+                "last_commit": "2026-10-27T19:18:40Z",
+                "open_issues": 7,
                 "owner": "Hack-HQ",
                 "repo": "hackhq",
                 "stars": 123,
@@ -1243,7 +1243,7 @@
                 "open_issues": 3,
                 "owner": "matiassingers",
                 "repo": "awesome-readme",
-                "stars": 21624,
+                "stars": 21631,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1592,7 +1592,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T18:16:47.292Z",
+    "last_updated": "2026-10-28T18:29:50.567Z",
     "original_repository_info": {
       "archived": false,
       "description": "Platforms, tools, and guides for critical organizers 🌆",
@@ -1604,7 +1604,7 @@
       "open_issues": 6,
       "owner": "dribdat",
       "repo": "awesome-hackathon",
-      "stars": 312,
+      "stars": 313,
       "topics": [
         "awesome",
         "awesome-list",
