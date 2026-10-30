@@ -847,7 +847,7 @@
                 "open_issues": 0,
                 "owner": "microsoft",
                 "repo": "AcademicContent",
-                "stars": 2820,
+                "stars": 2821,
                 "topics": [
                   "azure",
                   "classroom",
@@ -1069,7 +1069,7 @@
                 "id": 1282457520,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-28T19:26:14Z",
+                "last_commit": "2026-10-29T19:30:03Z",
                 "open_issues": 7,
                 "owner": "Hack-HQ",
                 "repo": "hackhq",
@@ -1243,7 +1243,7 @@
                 "open_issues": 3,
                 "owner": "matiassingers",
                 "repo": "awesome-readme",
-                "stars": 21639,
+                "stars": 21645,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1353,7 +1353,7 @@
                 "open_issues": 11,
                 "owner": "anishathalye",
                 "repo": "gavel",
-                "stars": 492,
+                "stars": 493,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:40:25.427Z"
@@ -1592,7 +1592,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T18:39:08.356Z",
+    "last_updated": "2026-10-30T18:12:59.840Z",
     "original_repository_info": {
       "archived": false,
       "description": "Platforms, tools, and guides for critical organizers 🌆",
