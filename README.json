@@ -435,7 +435,7 @@
                 "open_issues": 28,
                 "owner": "acmutd",
                 "repo": "hackportal",
-                "stars": 51,
+                "stars": 50,
                 "topics": [
                   "hackathon",
                   "hacktoberfest"
@@ -626,8 +626,8 @@
                 "id": 387535397,
                 "language": "TypeScript",
                 "license": null,
-                "last_commit": "2026-10-01T02:11:44Z",
-                "open_issues": 74,
+                "last_commit": "2026-11-01T02:10:48Z",
+                "open_issues": 75,
                 "owner": "knoffhoff",
                 "repo": "hms",
                 "stars": 11,
@@ -1017,8 +1017,8 @@
                 "id": 271623674,
                 "language": "JavaScript",
                 "license": null,
-                "last_commit": "2026-10-24T15:04:01Z",
-                "open_issues": 25,
+                "last_commit": "2026-11-01T09:42:36Z",
+                "open_issues": 26,
                 "owner": "hackclub",
                 "repo": "scrapbook",
                 "stars": 189,
@@ -1069,7 +1069,7 @@
                 "id": 1282457520,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-30T19:06:43Z",
+                "last_commit": "2026-10-31T18:21:40Z",
                 "open_issues": 7,
                 "owner": "Hack-HQ",
                 "repo": "hackhq",
@@ -1128,7 +1128,7 @@
                 "open_issues": 13,
                 "owner": "Catalyst-IN",
                 "repo": "OpenSourceEvents-Frontend",
-                "stars": 65,
+                "stars": 66,
                 "topics": [
                   "css",
                   "hackathons",
@@ -1243,7 +1243,7 @@
                 "open_issues": 3,
                 "owner": "matiassingers",
                 "repo": "awesome-readme",
-                "stars": 21646,
+                "stars": 21651,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1592,7 +1592,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T17:21:40.014Z",
+    "last_updated": "2026-11-01T18:07:20.943Z",
     "original_repository_info": {
       "archived": false,
       "description": "Platforms, tools, and guides for critical organizers 🌆",
@@ -1601,10 +1601,10 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-10-08T20:49:49Z",
-      "open_issues": 7,
+      "open_issues": 8,
       "owner": "dribdat",
       "repo": "awesome-hackathon",
-      "stars": 313,
+      "stars": 312,
       "topics": [
         "awesome",
         "awesome-list",
