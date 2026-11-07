@@ -25,7 +25,7 @@ By *awesome 🕶️ hackathon platforms*, we mean web or mobile applications tha
 * [JunctionApp](https://github.com/hackjunction/JunctionApp) ⭐ 78 | 🐛 210 | 🌐 JavaScript | 📅 2025-07-01 - All-in-one hackathon platform for organisers, maintained by Junction. `js`
 * [Hibiscus](https://github.com/HackSC/hibiscus) ⭐ 55 | 🐛 5 | 🌐 TypeScript | 📅 2025-05-07 - An all-in-one, plug-and-play hackathon platform, created for HackSC. `js` `python`
 * [Hackerspace3](https://github.com/govhackaustralia/hackerspace3) ⭐ 24 | 🐛 53 | 🌐 Ruby | 📅 2025-09-03 - Competition Management System for the GovHack Hackathon. `ruby`
-* [DeltaHacks Portal](https://github.com/deltahacks/portal) ⭐ 20 | 🐛 10 | 🌐 TypeScript | 📅 2026-11-06 - The attendee & admin portal for DeltaHacks 10, the hackathon for change. `ts` `js`
+* [DeltaHacks Portal](https://github.com/deltahacks/portal) ⭐ 20 | 🐛 11 | 🌐 TypeScript | 📅 2026-11-07 - The attendee & admin portal for DeltaHacks 10, the hackathon for change. `ts` `js`
 * [OpenHackathon](https://github.com/kaiyuanshe/OpenHackathon-Web) ⭐ 16 | 🐛 0 | 🌐 TypeScript | 📅 2025-06-30 - Platform with Git-based Cloud Development Environment based on Next.js. `js`
 * [Halo](https://github.com/tcnj-acm/halo) ⭐ 9 | 🐛 3 | 🌐 HTML | 📅 2025-03-10 - Hackathon Management System built on Django. `python`
 * [Hack the Back](https://github.com/hackthevalley/hack-the-back) ⭐ 6 | 🐛 5 | 🌐 Python | 📅 2026-11-02 - An elegant backend, with ready-made GraphQL and REST endpoints. `python`
@@ -126,7 +126,7 @@ By *awesome 🕶️ hackathon platforms*, we mean web or mobile applications tha
 
 ### Coaching
 
-* [Awesome README](https://github.com/matiassingers/awesome-readme) ⭐ 21,678 | 🐛 3 | 📅 2026-10-23 - A list to inspire your coaches to motivate your teams to document their efforts ...with panache.
+* [Awesome README](https://github.com/matiassingers/awesome-readme) ⭐ 21,682 | 🐛 3 | 📅 2026-10-23 - A list to inspire your coaches to motivate your teams to document their efforts ...with panache.
 * [HELPq](https://github.com/ehzhang/helpq) ⭐ 269 | 🐛 12 | 🌐 JavaScript | 📅 2020-02-11 - Queue application with interfaces for mentors and hackers to answer/submit questions, respectively.
 * [Hangar](https://github.com/AmericanAirlines/Hangar) ⭐ 41 | 🐛 5 | 🌐 TypeScript | 📅 2024-05-02 - A Slack bot to help with judging and coaching at hackathons.
 * [TreeHacks Slack Mentorship System](https://github.com/hacktx/slack-mentorship) ⭐ 1 | 🐛 0 | 🌐 JavaScript | 📅 2015-09-24 - A Slack bot that queues requests in a #mentors channel (unmaintained as of 2015).
@@ -186,4 +186,4 @@ Licensed [CC0 - Creative Commons Public Domain](LICENSE)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
