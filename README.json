@@ -1069,7 +1069,7 @@
                 "id": 1282457520,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-09T23:22:56Z",
+                "last_commit": "2026-11-10T20:47:36Z",
                 "open_issues": 5,
                 "owner": "Hack-HQ",
                 "repo": "hackhq",
@@ -1243,7 +1243,7 @@
                 "open_issues": 3,
                 "owner": "matiassingers",
                 "repo": "awesome-readme",
-                "stars": 21703,
+                "stars": 21710,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1477,7 +1477,7 @@
             "open_issues": 15,
             "owner": "MLH",
             "repo": "mlh-hackathon-organizer-guide",
-            "stars": 354,
+            "stars": 355,
             "topics": []
           },
           "first_seen": "2026-08-28T22:40:25.427Z"
@@ -1592,7 +1592,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T20:00:27.027Z",
+    "last_updated": "2026-11-11T19:52:09.598Z",
     "original_repository_info": {
       "archived": false,
       "description": "Platforms, tools, and guides for critical organizers 🌆",
