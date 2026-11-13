@@ -25,10 +25,10 @@ By *awesome 🕶️ hackathon platforms*, we mean web or mobile applications tha
 * [JunctionApp](https://github.com/hackjunction/JunctionApp) ⭐ 78 | 🐛 210 | 🌐 JavaScript | 📅 2025-07-01 - All-in-one hackathon platform for organisers, maintained by Junction. `js`
 * [Hibiscus](https://github.com/HackSC/hibiscus) ⭐ 55 | 🐛 5 | 🌐 TypeScript | 📅 2025-05-07 - An all-in-one, plug-and-play hackathon platform, created for HackSC. `js` `python`
 * [Hackerspace3](https://github.com/govhackaustralia/hackerspace3) ⭐ 24 | 🐛 53 | 🌐 Ruby | 📅 2025-09-03 - Competition Management System for the GovHack Hackathon. `ruby`
-* [DeltaHacks Portal](https://github.com/deltahacks/portal) ⭐ 20 | 🐛 17 | 🌐 TypeScript | 📅 2026-11-10 - The attendee & admin portal for DeltaHacks 10, the hackathon for change. `ts` `js`
+* [DeltaHacks Portal](https://github.com/deltahacks/portal) ⭐ 20 | 🐛 18 | 🌐 TypeScript | 📅 2026-11-13 - The attendee & admin portal for DeltaHacks 10, the hackathon for change. `ts` `js`
 * [OpenHackathon](https://github.com/kaiyuanshe/OpenHackathon-Web) ⭐ 16 | 🐛 0 | 🌐 TypeScript | 📅 2025-06-30 - Platform with Git-based Cloud Development Environment based on Next.js. `js`
 * [Halo](https://github.com/tcnj-acm/halo) ⭐ 9 | 🐛 3 | 🌐 HTML | 📅 2025-03-10 - Hackathon Management System built on Django. `python`
-* [Hack the Back](https://github.com/hackthevalley/hack-the-back) ⭐ 6 | 🐛 5 | 🌐 Python | 📅 2026-11-02 - An elegant backend, with ready-made GraphQL and REST endpoints. `python`
+* [Hack the Back](https://github.com/hackthevalley/hack-the-back) ⭐ 6 | 🐛 5 | 🌐 Python | 📅 2026-11-13 - An elegant backend, with ready-made GraphQL and REST endpoints. `python`
 * [Hackathon Management System](https://github.com/Teplitsa/hackathon) ⭐ 3 | 🐛 0 | 🌐 PHP | 📅 2025-04-19 - A comprehensive WordPress plugin by [Teplitsa](https://hms.te-st.org/). `php`
 * [Opportunity Hack](https://github.com/opportunity-hack) - Skills-Based Volunteering for Social Good, matching people to projects. `js` `python`
 
@@ -52,7 +52,7 @@ By *awesome 🕶️ hackathon platforms*, we mean web or mobile applications tha
 > These projects, while open source, are not showing signs of active maintenance (a release in the past year). Please contact us if you think otherwise! They might need your help, or have valuable content that could be reused.
 
 * [Quill](https://github.com/techx/quill) ⭐ 454 | 🐛 60 | 🌐 JavaScript | 📅 2022-12-22 - A registration system designed especially for large hackathons, maintained by HackMIT.
-* [Hackfoldr](https://github.com/hackfoldr/hackfoldr) ⭐ 414 | 🐛 44 | 🌐 LiveScript | 📅 2021-12-21 - Organize gdoc and hackpad documents for hackathons.
+* [Hackfoldr](https://github.com/hackfoldr/hackfoldr) ⭐ 413 | 🐛 44 | 🌐 LiveScript | 📅 2021-12-21 - Organize gdoc and hackpad documents for hackathons.
 * [LaraHack](https://github.com/ScientificClubofESI/LaraHack) ⭐ 122 | 🐛 4 | 🌐 PHP | 📅 2023-02-02 - Administration system designed for hackathons and similar competitions.
 * [HackDash](https://github.com/impronunciable/hackdash) ⭐ 73 | 🐛 43 | 🌐 JavaScript | 📅 2023-09-27 - Organize hackathon ideas into a dashboard.
 * [project-hackathon](https://github.com/pheralb/project-hackathon) ⭐ 59 | 🐛 1 | 🌐 TypeScript | 📅 2023-08-11 - Hackathon management tool created at Hackafor. `typescript`
@@ -108,10 +108,10 @@ By *awesome 🕶️ hackathon platforms*, we mean web or mobile applications tha
 ### Promoting
 
 * [Hackalist](https://github.com/Hackalist/Hackalist.github.io#readme) ⭐ 492 | 🐛 0 | 🌐 HTML | 📅 2026-10-19 - A list of upcoming hackathons from around the world.
-* [Scrapbook](https://github.com/hackclub/scrapbook) ⭐ 189 | 🐛 26 | 🌐 JavaScript | 📅 2026-11-01 by HackClub - A daily streak system & portfolio for your projects.
+* [Scrapbook](https://github.com/hackclub/scrapbook) ⭐ 190 | 🐛 26 | 🌐 JavaScript | 📅 2026-11-01 by HackClub - A daily streak system & portfolio for your projects.
 * [Hack Club](https://github.com/hackclub/hackathons#readme) ⭐ 167 | 🐛 7 | 🌐 JavaScript | 📅 2026-09-04 - A curated list of hackathons organized for high schoolers.
-* [Hack-HQ](https://github.com/Hack-HQ/hackhq) ⭐ 123 | 🐛 5 | 🌐 TypeScript | 📅 2026-11-11 ([www](https://hacking-hq.com/)) - A curated, community-driven list of open & upcoming hackathons, updated automatically.
-* [Hackathon Sponsorship](https://github.com/Neuro-Hack/sponsorship#readme) ⭐ 80 | 🐛 1 | 📅 2017-10-12 🕶️  A crowdsourced 'Awesome List' of companies to contact.
+* [Hack-HQ](https://github.com/Hack-HQ/hackhq) ⭐ 123 | 🐛 5 | 🌐 TypeScript | 📅 2026-11-12 ([www](https://hacking-hq.com/)) - A curated, community-driven list of open & upcoming hackathons, updated automatically.
+* [Hackathon Sponsorship](https://github.com/Neuro-Hack/sponsorship#readme) ⭐ 81 | 🐛 1 | 📅 2017-10-12 🕶️  A crowdsourced 'Awesome List' of companies to contact.
 * [Open Source Events](https://github.com/Catalyst-IN/OpenSourceEvents-Frontend) ⚠️ Archived - This website contains a monthly calendar of events and hackathons (project is archived as of Feb 5, 2024).
 * [Upcoding](https://github.com/sahanmndl/UpCoding-Web) ⭐ 13 | 🐛 3 | 🌐 JavaScript | 📅 2023-10-13 - Get event details of competitive programming contests, hackathons etc.
 * [Hackamaps](https://hackamaps.com) - A global hackathon map and discovery tool for finding events, prize pools, and co-founders.
@@ -126,7 +126,7 @@ By *awesome 🕶️ hackathon platforms*, we mean web or mobile applications tha
 
 ### Coaching
 
-* [Awesome README](https://github.com/matiassingers/awesome-readme) ⭐ 21,716 | 🐛 2 | 📅 2026-11-10 - A list to inspire your coaches to motivate your teams to document their efforts ...with panache.
+* [Awesome README](https://github.com/matiassingers/awesome-readme) ⭐ 21,715 | 🐛 2 | 📅 2026-11-10 - A list to inspire your coaches to motivate your teams to document their efforts ...with panache.
 * [HELPq](https://github.com/ehzhang/helpq) ⭐ 269 | 🐛 12 | 🌐 JavaScript | 📅 2020-02-11 - Queue application with interfaces for mentors and hackers to answer/submit questions, respectively.
 * [Hangar](https://github.com/AmericanAirlines/Hangar) ⭐ 41 | 🐛 5 | 🌐 TypeScript | 📅 2024-05-02 - A Slack bot to help with judging and coaching at hackathons.
 * [TreeHacks Slack Mentorship System](https://github.com/hacktx/slack-mentorship) ⭐ 1 | 🐛 0 | 🌐 JavaScript | 📅 2015-09-24 - A Slack bot that queues requests in a #mentors channel (unmaintained as of 2015).
@@ -152,7 +152,7 @@ By *awesome 🕶️ hackathon platforms*, we mean web or mobile applications tha
 * [Hackday Manifesto](https://github.com/hackdaymanifesto/site) ⭐ 431 | 🐛 11 | 🌐 HTML | 📅 2025-01-31 - How to make your event a success, and avoid common pitfalls.
 * [MLH Organizer Guide](https://github.com/MLH/mlh-hackathon-organizer-guide) ⭐ 355 | 🐛 15 | 🌐 CSS | 📅 2026-11-09 - Guide from Major League Hacking, popular at US schools.
 * [Hackathon.guide](https://github.com/JoshData/hackathon.guide) ⭐ 180 | 🐛 3 | 🌐 HTML | 📅 2020-06-07 - A step-by-step guide by seasoned organizer Joshua Tauberer.
-* [Hackathon Hackers Guide](https://github.com/HackathonHackers/Hackathon-Resources/blob/master/RESOURCES.md) ⭐ 26 | 🐛 0 | 🌐 PHP | 📅 2015-12-16 - Collection of high quality hackathon resources. See also [Etiquette](https://medium.com/hackathon-hackers/hackathon-hackers-etiquette-cbcb9d1cda54#.dmgz1wp4y) and [Subgroups](https://github.com/HackathonHackers/groups) ⭐ 216 | 🐛 5 | 📅 2017-11-15.
+* [Hackathon Hackers Guide](https://github.com/HackathonHackers/Hackathon-Resources/blob/master/RESOURCES.md) ⭐ 26 | 🐛 0 | 🌐 PHP | 📅 2015-12-16 - Collection of high quality hackathon resources. See also [Etiquette](https://medium.com/hackathon-hackers/hackathon-hackers-etiquette-cbcb9d1cda54#.dmgz1wp4y) and [Subgroups](https://github.com/HackathonHackers/groups) ⭐ 217 | 🐛 5 | 📅 2017-11-15.
 * [Hackathon Leitfaden](https://github.com/okfde/hackathon-leitfaden) ⭐ 14 | 🐛 6 | 🌐 TeX | 📅 2021-07-13 - (In German) Printed guide for municipalities.
 * [OpenHatch In-Person Event Handbook](https://github.com/openhatch/in-person-event-handbook) ⭐ 13 | 🐛 7 | 🌐 Python | 📅 2019-05-28 - For getting your open source project ready for new contributors.
 * [Dribdat wiki](https://github.com/dribdat/docs/wiki) ⭐ 0 | 🐛 0 | 🌐 HTML | 📅 2026-09-21 - Community sourced guidelines from an open source project.
@@ -186,4 +186,4 @@ Licensed [CC0 - Creative Commons Public Domain](LICENSE)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._

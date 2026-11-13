@@ -146,8 +146,8 @@
                 "id": 526394063,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-10T06:05:28Z",
-                "open_issues": 17,
+                "last_commit": "2026-11-13T05:03:43Z",
+                "open_issues": 18,
                 "owner": "deltahacks",
                 "repo": "portal",
                 "stars": 20,
@@ -228,7 +228,7 @@
                 "id": 302768057,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-02T20:54:06Z",
+                "last_commit": "2026-11-13T04:15:13Z",
                 "open_issues": 5,
                 "owner": "hackthevalley",
                 "repo": "hack-the-back",
@@ -311,7 +311,7 @@
                 "open_issues": 44,
                 "owner": "hackfoldr",
                 "repo": "hackfoldr",
-                "stars": 414,
+                "stars": 413,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:40:25.427Z"
@@ -1021,7 +1021,7 @@
                 "open_issues": 26,
                 "owner": "hackclub",
                 "repo": "scrapbook",
-                "stars": 189,
+                "stars": 190,
                 "topics": [
                   "hackclub",
                   "hacktoberfest",
@@ -1069,7 +1069,7 @@
                 "id": 1282457520,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-11T21:11:17Z",
+                "last_commit": "2026-11-12T21:24:16Z",
                 "open_issues": 5,
                 "owner": "Hack-HQ",
                 "repo": "hackhq",
@@ -1103,7 +1103,7 @@
                 "open_issues": 1,
                 "owner": "Neuro-Hack",
                 "repo": "sponsorship",
-                "stars": 80,
+                "stars": 81,
                 "topics": [
                   "awesome-list",
                   "hackathon",
@@ -1243,7 +1243,7 @@
                 "open_issues": 2,
                 "owner": "matiassingers",
                 "repo": "awesome-readme",
-                "stars": 21716,
+                "stars": 21715,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1592,7 +1592,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T20:27:32.387Z",
+    "last_updated": "2026-11-13T20:03:19.742Z",
     "original_repository_info": {
       "archived": false,
       "description": "Platforms, tools, and guides for critical organizers 🌆",
