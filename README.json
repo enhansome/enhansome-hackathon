@@ -1000,7 +1000,7 @@
                 "open_issues": 0,
                 "owner": "Hackalist",
                 "repo": "Hackalist.github.io",
-                "stars": 492,
+                "stars": 491,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:40:25.427Z"
@@ -1069,7 +1069,7 @@
                 "id": 1282457520,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-13T20:51:50Z",
+                "last_commit": "2026-11-14T19:01:42Z",
                 "open_issues": 5,
                 "owner": "Hack-HQ",
                 "repo": "hackhq",
@@ -1243,7 +1243,7 @@
                 "open_issues": 2,
                 "owner": "matiassingers",
                 "repo": "awesome-readme",
-                "stars": 21721,
+                "stars": 21728,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1592,7 +1592,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T18:29:42.524Z",
+    "last_updated": "2026-11-15T19:07:03.104Z",
     "original_repository_info": {
       "archived": false,
       "description": "Platforms, tools, and guides for critical organizers 🌆",
