@@ -400,6 +400,30 @@
             },
             {
               "node_type": "item",
+              "title": "HackPortal",
+              "description": "A platform from HackUTD for user-friendly event management.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A platform for hackathon event management.",
+                "homepage": "https://hackportal.hackutd.co/",
+                "id": 381515549,
+                "language": "TypeScript",
+                "license": "MIT",
+                "last_commit": "2025-01-27T20:04:58Z",
+                "open_issues": 28,
+                "owner": "acmutd",
+                "repo": "hackportal",
+                "stars": 52,
+                "topics": [
+                  "hackathon",
+                  "hacktoberfest"
+                ]
+              },
+              "first_seen": "2026-08-28T22:40:25.427Z"
+            },
+            {
+              "node_type": "item",
               "title": "Nucleus",
               "description": "Hackathon application system that integrates with MyMLH, Slack and more from HackTX.",
               "children": [],
@@ -416,30 +440,6 @@
                 "repo": "nucleus",
                 "stars": 52,
                 "topics": []
-              },
-              "first_seen": "2026-08-28T22:40:25.427Z"
-            },
-            {
-              "node_type": "item",
-              "title": "HackPortal",
-              "description": "A platform from HackUTD for user-friendly event management.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A platform for hackathon event management.",
-                "homepage": "https://hackportal.hackutd.co/",
-                "id": 381515549,
-                "language": "TypeScript",
-                "license": "MIT",
-                "last_commit": "2025-01-27T20:04:58Z",
-                "open_issues": 28,
-                "owner": "acmutd",
-                "repo": "hackportal",
-                "stars": 51,
-                "topics": [
-                  "hackathon",
-                  "hacktoberfest"
-                ]
               },
               "first_seen": "2026-08-28T22:40:25.427Z"
             },
@@ -1069,7 +1069,7 @@
                 "id": 1282457520,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-19T22:03:22Z",
+                "last_commit": "2026-11-20T21:46:33Z",
                 "open_issues": 5,
                 "owner": "Hack-HQ",
                 "repo": "hackhq",
@@ -1243,7 +1243,7 @@
                 "open_issues": 1,
                 "owner": "matiassingers",
                 "repo": "awesome-readme",
-                "stars": 21755,
+                "stars": 21757,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1473,11 +1473,11 @@
             "id": 26335034,
             "language": "CSS",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-09T17:29:59Z",
+            "last_commit": "2026-11-20T22:18:41Z",
             "open_issues": 15,
             "owner": "MLH",
             "repo": "mlh-hackathon-organizer-guide",
-            "stars": 355,
+            "stars": 356,
             "topics": []
           },
           "first_seen": "2026-08-28T22:40:25.427Z"
@@ -1592,7 +1592,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T20:44:15.463Z",
+    "last_updated": "2026-11-21T19:47:49.868Z",
     "original_repository_info": {
       "archived": false,
       "description": "Platforms, tools, and guides for critical organizers 🌆",
